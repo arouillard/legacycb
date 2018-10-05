@@ -1,0 +1,17 @@
+{
+  "data_file" : "../input_data/tcga/TCGA_nanostring.csv.gz",
+  "meta_file" : "../input_data/tcga/TCGA_meta.csv.gz",
+  "num_layers" : {"type" : "discrete", "domain" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], "transformation" : "linear"},
+  "init_h_dim" : {"type" : "continuous", "domain" : [10, 30000], "transformation" : "log"},
+  "dim_scaling" : "log",
+  "batch_fraction" : {"type" : "continuous", "domain" : [0.001, 1], "transformation" : "log"},
+  "learning_rate" : {"type" : "continuous", "domain" : [0.000001, 10.0], "transformation" : "log"},
+  "epochs" : 1000000,
+  "minutes" : 60,
+  "activation" : {"type" : "categorical", "domain" : ["tanh", "relu"]},
+  "latent_dim" : 2,
+  "data_split" : 0.2,
+  "model_type" : "Gaussian",
+  "ae_type" : "VAE",
+  "keep_weights" : false
+}

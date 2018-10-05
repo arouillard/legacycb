@@ -1,0 +1,7 @@
+{
+  "float_var_example": 0.2,
+  "int_var_example": 2,
+  "str_var_example": "option1",
+  "bool_var_example": false,
+  "save_folder": "."
+}

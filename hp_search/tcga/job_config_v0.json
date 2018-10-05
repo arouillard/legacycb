@@ -1,0 +1,9 @@
+{
+  "environment_path" : "/GWD/bioinfo/projects/cb01/users/rouillard/anaconda5.1/bin/python",
+  "script_path" : "../models/train_ae.py",
+  "cluster" : "CMS", # 'CMS' or 'GSKTECH'
+  "time" : 2, # in hours
+  "memory": 32, # in GB
+  "processor_type" : "GPU", # 'GPU' or 'CPU'
+  "num_processors" : 1
+}

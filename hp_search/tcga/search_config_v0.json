@@ -1,0 +1,31 @@
+{
+  "search_type" : "bopt", # 'bopt', 'random', 'grid', or 'line'
+  "search_time" : 24, # in hours, 168 hours = 1 week
+  "search_memory" : 32, # in GB
+  "search_environment_path" : "/GWD/bioinfo/projects/cb01/users/rouillard/anaconda5.1/bin/python",
+  "search_script_path" : "hp_search.py",
+  "max_suggestions" : 200,
+  "max_active_points" : 20,
+  "min_initial_points" : 5,
+  "y_transformation" : "log", # 'log', 'neglog', 'neg', or 'none'
+  "y_failure_value" : "max", # 'nan', 'max', or a constant
+  "num_grid_points_per_hyperparameter" : 0,
+  "grid_suggestion_probability" : 0,
+  "random_suggestion_probability" : 0.1,
+  "bopt_config" : {
+    "acquisition_type" : ["EI", "MPI", "LCB"],
+    "acquisition_optimizer_type" : "lbfgs",
+    "model_type" : "GP",
+    "model_estimation_method" : ["MLE", "MCMC"],
+    "kernel" : ["ExpQuad", "RatQuad", "Matern52"],
+    "normalize_Y" : true,
+    "de_duplication" : true,
+    "exact_feval" : false,
+    "eps" : 0,
+    "n_burnin" : 500,
+    "n_samples" : 50,
+    "step_size" : 0.1,
+    "subsample_interval" : 10,
+    "leapfrog_steps" : 20
+  }
+}
