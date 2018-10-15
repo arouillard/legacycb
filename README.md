@@ -2,5 +2,8 @@
 * This is a repository for machine learning code
 
 ### HOW TO USE
-* Create a branch when you are developing code
-* Merge into the master branch when you are ready to share
+* Master branch is for community-wide releases
+* Develop branch is for releases to project members
+* Create a feature branch off the develop branch when you are modifying or adding code 
+* You can have multiple feature branches for distinct coding efforts
+* Merge feature branch into the develop branch when you are ready to share
