@@ -1,0 +1,37 @@
+{
+  "previous_hidden_layer": 0,
+  "previous_finetuning_run": 0,
+  "pretraining_epochs": 109,
+  "finetuning_epochs": 109,
+  "last_layer_epochs": 5000, # 100000
+  "use_finetuning": true,
+  "skip_layerwise_training": true,
+  "min_dimension": [180, 900, 1800, 3600],
+  "hidden_layers": 1,
+  "first_hidden_layer_scaling_factor": "auto", # 'auto' or a scaling factor
+  "noise_probability": 0.001,
+  "noise_sigma": 1.0,
+  "noise_distribution": "bernoulli", # 'truncnorm' or 'uniform'
+  "noise_operation": "replace", # 'add' or 'replace'
+  "initialization_sigma": [0.001, 0.01, 0.1, 1.0],
+  "initialization_distribution": "truncnorm", # 'truncnorm'
+  "learning_rate": [0.0001, 0.001, 0.01, 0.1], # 0.001
+  "epsilon": 0.001, # 0.001
+  "beta1": 0.9,
+  "beta2": 0.999,
+  "batch_fraction": 0.05,
+  "firstcheckpoint": 10, # 1, 1/batch_fraction, or pretraining_epochs/batch_fraction
+  "maxstepspercheckpoint": 100000,
+  "startsavingstep": 100000,
+  "include_global_step": false,
+  "overfitting_score_max": 5,
+  "activation_function": "sigmoid", # 'relu', 'tanh', 'elu', or 'sigmoid'
+  "use_batchnorm": false,
+  "apply_activation_to_output": true,
+  "apply_activation_to_embedding": false,
+  "processor": "gpu", # 'cpu' or 'gpu', can be over-ridden later
+  "gpu_memory_fraction": 0.2, # can be over-ridden later
+  "gpu_id": "0", # can be over-ridden later
+  "study_name": "GTEXv6_impc",
+  "orientation": "skinny" # 'skinny' or 'fat'
+}
