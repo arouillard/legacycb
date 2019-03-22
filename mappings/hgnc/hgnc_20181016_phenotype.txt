@@ -1,0 +1,572 @@
+hgnc_id	symbol	name	locus_group	locus_type	status	location	location_sortable	alias_symbol	alias_name	prev_symbol	prev_name	gene_family	gene_family_id	date_approved_reserved	date_symbol_changed	date_name_changed	date_modified	entrez_id	ensembl_gene_id	vega_id	ucsc_id	ena	refseq_accession	ccds_id	uniprot_ids	pubmed_id	mgd_id	rgd_id	lsdb	cosmic	omim_id	mirbase	homeodb	snornabase	bioparadigms_slc	orphanet	pseudogene.org	horde_id	merops	imgt	iuphar	kznf_gene_catalog	mamit-trnadb	cd	lncrnadb	enzyme_id	intermediate_filament_db	rna_central_ids
+HGNC:114	ACLS	acrocallosal syndrome	phenotype	phenotype only	Approved	12p13.3-p11.2	12p13.3-p11.2							1993-01-19			2015-08-10	46								8723117																						
+HGNC:185	AD5	Alzheimer disease 5	phenotype	phenotype only	Approved	12p11.23-q13.12	12p11.23-q13.12							2000-07-31			2000-07-31	8081								"9333264|10712207"					602096																	
+HGNC:247	ADFN	albinism-deafness syndrome	phenotype	phenotype only	Approved	Xq26.3-q27.1	Xq26.3-q27.1							1986-01-01			2006-02-02	122								"5801459|2349949"					300700																	
+HGNC:309	AF8T	AF8 temperature sensitivity complementing	phenotype	phenotype only	Approved	3	03							2001-06-22			2012-10-02	169								180537					116950																	
+HGNC:310	AFA	ankyloblepharon filiforme adnatum	phenotype	phenotype only	Approved	reserved	reserved							1994-01-05			2012-03-30	170								8135297					106250																	
+HGNC:312	AFD1	acrofacial dysostosis 1, Nager type	phenotype	phenotype only	Approved	9q32	09q32							1994-01-05			2014-02-12	171								9585434																						
+HGNC:323	AGMX2	agammaglobulinemia, X-linked 2 (with growth hormone deficiency)	phenotype	phenotype only	Approved	Xp22	Xp22							1989-11-23			2014-02-12	179								3502688					300310																	
+HGNC:350	AIC	Aicardi syndrome	phenotype	phenotype only	Approved	Xp22	Xp22							1986-01-01			2006-02-22	192								"6818132|1971852"					304050																	
+HGNC:355	AIH3	amelogenesis imperfecta 3, hypomaturation or hypoplastic type	phenotype	phenotype only	Approved	Xq22-q28	Xq22-q28							1992-02-20			2011-02-24	201								1358807					301201																	
+HGNC:16304	AIS1	autoimmune susceptibility 1	phenotype	phenotype only	Approved	1p33-p31	01p33-p31							2003-08-26			2014-02-12	373071								"11912181|12707860|16098053"																						
+HGNC:23054	AIS2	autoimmune susceptibility 2	phenotype	phenotype only	Approved	7q11.22	07q11.22							2003-09-11			2004-05-17	378426								14691733					608391																	
+HGNC:23083	AIS3	autoimmune susceptibility 3 (vitiligo specific)	phenotype	phenotype only	Approved	8	08							2003-09-11			2004-05-17	378427								14691733					608392																	
+HGNC:444	ALS3	amyotrophic lateral sclerosis 3 (autosomal dominant)	phenotype	phenotype only	Approved	18q21	18q21							1993-11-16			2011-02-10	253								11706389					606640																	
+HGNC:446	ALS5	amyotrophic lateral sclerosis 5	phenotype	phenotype only	Approved	15q15.1-q21.1	15q15.1-q21.1							1997-06-09			2007-01-19	255								9933301																						
+HGNC:34539	ALS7	amyotrophic lateral sclerosis 7	phenotype	phenotype only	Approved	20p13	20p13							2008-08-21			2011-02-10	406238								12858291					608031																	
+HGNC:456	AMCN	arthrogryposis multiplex congenita, neurogenic	phenotype	phenotype only	Approved	5q35	05q35	"AMC|AMCN1|AMC1"						1998-03-25			1998-08-10	261								9345093																						
+HGNC:17627	ANIB1	aneurysm, intracranial berry 1	phenotype	phenotype only	Approved	7q11.2	07q11.2							2005-03-14			2011-02-10	116833								11536080					105800																	
+HGNC:31941	ANIB2	aneurysm, intracranial berry 2	phenotype	phenotype only	Approved	19q13	19q13							2005-03-14			2011-02-10	449013								14872410					608542																	
+HGNC:31942	ANIB3	aneurysm, intracranial berry 3	phenotype	phenotype only	Approved	1p36.13-p34.3	01p36.13-p34.3							2005-03-14			2011-02-10	497657								15540160					609122																	
+HGNC:31943	ANIB4	aneurysm, intracranial berry 4	phenotype	phenotype only	Approved	5p15.2-p14.3	05p15.2-p14.3							2006-06-19			2011-02-10	724058								16740915					610213																	
+HGNC:498	ANOP1	anophthalmos 1 (with mental retardation, without limb anomalies or dental or urogenital abnormalities)	phenotype	phenotype only	Approved	X	X	MCOPS4						1991-08-22			2011-02-10	289								1679229					301590																	
+HGNC:731	ARVD3	arrhythmogenic right ventricular dysplasia 3	phenotype	phenotype only	Approved	14q12-q22	14q12-q22							1997-07-25			1997-07-25	424								8824801					602086																	
+HGNC:732	ARVD4	arrhythmogenic right ventricular dysplasia 4	phenotype	phenotype only	Approved	2q32.1-q32.3	02q32.1-q32.3							1997-08-18			1997-12-23	425								9344647					602087																	
+HGNC:741	ASD1	atrial septal defect 1	phenotype	phenotype only	Approved	5p15.31	05p15.31							1997-06-18			2007-11-16	431								9610535					108800																	
+HGNC:780	ATD	asphixiating thoracic dystrophy (chondroectodermal dysplasia-like syndrome)	phenotype	phenotype only	Approved	12p12.2-p11.21	12p12.2-p11.21							1995-12-19			2014-02-12	465								7702088					208500																	
+HGNC:793	ATHS	atherosclerosis susceptibility (lipoprotein associated)	phenotype	phenotype only	Approved	19p13.3-p13.2	19p13.3-p13.2	ALP						1991-11-14			2008-05-14	470								1731344					108725																	
+HGNC:31916	AUNX1	auditory neuropathy, X-linked recessive 1	phenotype	phenotype only	Approved	Xq23-q27.3	Xq23-q27.3	DFNX5				Deafness associated genes	1152	2006-08-29			2014-01-28	751798								"12972945|16816020"																						
+HGNC:892	AUTS1	autism susceptibility 1	phenotype	phenotype only	Approved	7q	07q							1998-09-08			2018-01-04	100188832								9546821																						
+HGNC:12721	AVSD1	atrioventricular septal defect 1	phenotype	phenotype only	Approved	1p31-p21	01p31-p21	"AVSD|AVCD"		VSD1				1994-01-05	2001-09-27		2002-04-16	7446								9002679					606215																	
+HGNC:908	AZF1	azoospermia factor 1	phenotype	phenotype only	Approved	Yq11	Yq11	AZFa		AZF				2009-03-17	2007-07-24	2007-07-24	2013-11-15	560								19246359																						
+HGNC:1000	BCL5	B cell CLL/lymphoma 5	phenotype	phenotype only	Approved	17q22	17q22							1990-09-10		2017-12-06	2018-10-04	603								"2682663|8400234"					151441																	
+HGNC:23827	BMIQ1	body mass index QTL 1	phenotype	phenotype only	Approved	7q32.3	07q32.3				body mass index quantitative trait 1			2004-01-07		2005-04-08	2011-02-10	170815								11713718					606641																	
+HGNC:23828	BMIQ2	body mass index QTL 2	phenotype	phenotype only	Approved	13q14	13q14				body mass index quantitative trait 2			2004-01-07		2005-04-08	2011-02-10	192149								11713718					606643																	
+HGNC:23829	BMIQ3	body mass index QTL 3	phenotype	phenotype only	Approved	6q23-q25	06q23-q25				body mass index quantitative trait 3			2004-01-07		2005-04-08	2011-02-10	337895								11713718					607446																	
+HGNC:31117	BMIQ5	body mass index QTL 5	phenotype	phenotype only	Approved	16p13	16p13							2005-04-08			2011-02-10	449016								12774034					608558																	
+HGNC:22120	BMIQ6	body mass index QTL 6	phenotype	phenotype only	Approved	20pter-p11.2	20pter-p11.2							2005-04-08			2011-02-10	449017								12774034					608559																	
+HGNC:18617	BRCA3	breast cancer 3	phenotype	phenotype only	Approved	13q21	13q21	BRCAX						2002-05-07			2011-04-11	60500								"10944226|11792833"																						
+HGNC:1147	BTS1	bladder tumor susceptibility 1	phenotype	phenotype only	Approved	10p11.23	10p11.23							1997-04-25			2011-02-10	698								9310135																						
+HGNC:1387	CACD	central areolar choroidal dystrophy	phenotype	phenotype only	Approved	17p13	17p13							1997-02-27			1999-04-28	772								"8733141|9733038"																						
+HGNC:20683	CANDN1	candidiasis, nail 1 (with ICAM1 deficiency)	phenotype	phenotype only	Approved	11p12-q12.1	11p12-q12.1	"FCNC|CANDF3"						2003-03-18			2011-02-10	338434								"12205111|12774035"					607644																	
+HGNC:1559	CCA1	cataract, congenital, cerulean type, 1	phenotype	phenotype only	Approved	17q24	17q24	CTRCT7						1987-09-11			2014-02-07	878								7704021					115660																	
+HGNC:1561	CCAL1	chondrocalcinosis 1 (calcium pyrophosphate-deposition disease, early onset osteoarthritis)	phenotype	phenotype only	Approved	8q	08q	CPDD						1995-03-30			1999-07-15	882								7887424					600668																	
+HGNC:1614	CCT	cataract, congenital, total	phenotype	phenotype only	Approved	X	X							2001-06-22			2012-10-02	907																														
+HGNC:1624	CCV	cataract, congenital, Volkmann type	phenotype	phenotype only	Approved	1pter-p36.13	01pter-p36.13	CTRCT8						1999-06-10			2014-02-07	7792								7607651					115665																	
+HGNC:1715	CDAN3	congenital dyserythropoietic anemia, type III	phenotype	phenotype only	Approved	15q21-q25	15q21-q25	CDAIII						1994-09-29			2006-03-28	981								7711721					105600					470054												
+HGNC:1716	CDB2	corneal dystrophy of Bowman layer type II (Thiel-Behnke)	phenotype	phenotype only	Approved	10q23-q24	10q23-q24	CDTB	CDB II		corneal dystrophy of Bowman's layer type II (Thiel-Behnke)			1997-09-05		2007-10-04	2007-10-04	982								9403072																						
+HGNC:1792	CDL1	Cornelia de Lange syndrome 1	phenotype	phenotype only	Approved	3q26.3	03q26.3			CDL				1993-01-19			2011-02-10									"1956066|11391654"																						
+HGNC:1793	CDL2	Cornelia de Lange syndrome 2	phenotype	phenotype only	Approved	reserved	reserved							1994-01-05			2011-02-10	1023																														
+HGNC:19378	CELIAC2	celiac disease 2	phenotype	phenotype only	Approved	5q31-q33	05q31-q33	"CD|GSE"						2003-01-30			2011-02-10	317782								"11415521|11840196"					609754																	
+HGNC:1860	CEPA	congenital episodic primary apnea	phenotype	phenotype only	Approved	reserved	reserved							1995-06-09			2011-02-24																															
+HGNC:1881	CFM1	cystic fibrosis modifier 1	phenotype	phenotype only	Approved	19q13.2-q13.3	19q13.2-q13.3							1999-04-15			2012-03-12	10167								"8589719|10369249"	MGI:106062				603855																	
+HGNC:1882	CFM2	cystic fibrosis modifier 2	phenotype	phenotype only	Approved	reserved	reserved							1999-04-15			2011-02-17	23727																														
+HGNC:1887	CGF1	cognitive function 1, social	phenotype	phenotype only	Approved	Xp11.22-qter	Xp11.22-qter							1997-06-18			2009-05-08	1083								9192895					300082																	
+HGNC:1992	CKBE	creatine kinase, ectopic expression	phenotype	phenotype only	Approved	14q32	14q32							2001-06-22			2015-08-10	1156													123270																	
+HGNC:2004	CLA3	cerebellar ataxia 3 (cerebellar parenchyma disorder 1)	phenotype	phenotype only	Approved	reserved	reserved			CPD1				1991-08-22			2011-02-10	1167													608029																	
+HGNC:20394	CLAM	cerebellar atrophy with progressive microcephaly	phenotype	phenotype only	Approved	7q11-q21	07q11-q21	PCH3						2004-12-23			2011-02-10	373073								12771259																						
+HGNC:32782	CLN9	ceroid-lipofuscinosis, neuronal 9	phenotype	phenotype only	Approved	reserved	reserved							2006-05-08			2015-03-30	497231								"15349861|16303764"					609055																	
+HGNC:2102	CMD1B	cardiomyopathy, dilated 1B (autosomal dominant)	phenotype	phenotype only	Approved	9q13-q22	09q13-q22	FDC						1995-12-20			2003-03-25	1218								7573045					600884																	
+HGNC:2106	CMD1F	cardiomyopathy, dilated 1F (autosomal dominant)	phenotype	phenotype only	Approved	6q23	06q23	"CDCD3|LGMD1E"						1998-04-22			2007-04-23									9382102																						
+HGNC:2108	CMD1H	cardiomyopathy, dilated 1H (autosomal dominant)	phenotype	phenotype only	Approved	2q14-q22	02q14-q22							1999-07-01			1999-09-16	23459													604288																	
+HGNC:14541	CMD1K	cardiomyopathy, dilated 1K (autosomal dominant)	phenotype	phenotype only	Approved	6q12-q16	06q12-q16							2001-01-31			2001-01-31	65014								11085912					605582																	
+HGNC:32552	CMD1Q	cardiomyopathy, dilated 1Q (autosomal dominant)	phenotype	phenotype only	Approved	7q22.3-q31.1	07q22.3-q31.1							2006-03-17			2008-05-15	664728								16228230					609915																	
+HGNC:2124	CMM	cutaneous malignant melanoma/dysplastic nevus	phenotype	phenotype only	Approved	1p36	01p36	CMM1		DNS				2001-06-22			2012-10-02	1243								1531137					155600																	
+HGNC:2126	CMR1A	cardiomyopathy, restrictive 1A (autosomal dominant)	phenotype	phenotype only	Approved	reserved	reserved							1995-12-20			2011-02-10	1245																														
+HGNC:2127	CMR2A	cardiomyopathy, restrictive 2A (autosomal recessive)	phenotype	phenotype only	Approved	reserved	reserved							1995-12-20			2011-02-10	1246																														
+HGNC:2128	CMR3A	cardiomyopathy, restrictive 3A (X-linked)	phenotype	phenotype only	Approved	X	X							1995-12-20			2014-11-14	1247																														
+HGNC:2129	CMT1A	Charcot-Marie-Tooth neuropathy 1A (greatly reduced nerve conduction velocity, hereditary motor sensory neuropathy Ia)	phenotype	phenotype only	Approved	17p13.1-q12	17p13.1-q12	HMSNIA						1989-06-30			2011-02-15									"1677316|8644705|10489052|7515304"																						
+HGNC:2132	CMT2B	Charcot-Marie-Tooth neuropathy 2B	phenotype	phenotype only	Approved	3q13-q22	03q13-q22							1995-08-10			2011-02-17																															
+HGNC:2137	CMTX2	Charcot-Marie-Tooth neuropathy, X-linked 2 (recessive)	phenotype	phenotype only	Approved	Xp22	Xp22							1991-09-12			1991-12-06	1253													302801																	
+HGNC:2138	CMTX3	Charcot-Marie-Tooth neuropathy, X-linked 3 (dominant)	phenotype	phenotype only	Approved	X	X							1991-09-12			2000-05-19	1254								2245309					302802																	
+HGNC:2139	CNA1	cornea plana 1 (autosomal dominant)	phenotype	phenotype only	Approved	12q	12q							1993-12-15			2008-05-14	1255													121400																	
+HGNC:2141	CNC2	Carney complex type 2, multiple neoplasia and lentiginosis	phenotype	phenotype only	Approved	2p16	02p16			CNC	Carney complex, multiple neoplasia and lentiginosis			1996-06-07	2014-02-07	2014-02-07	2014-02-07	1257								8609225					605244																	
+HGNC:2182	COD2	cone dystrophy 2 (X-linked)	phenotype	phenotype only	Approved	Xq27	Xq27	CORDX2						1997-08-18			2009-08-21	1275								9199568					300085																	
+HGNC:2245	CORD1	cone rod dystrophy 1 (autosomal dominant)	phenotype	phenotype only	Approved	18q21.1-q21.3	18q21.1-q21.3			CORD				1987-09-11			2013-01-23	1319								1867279					600624																	
+HGNC:2247	CORD4	cone rod dystrophy 4	phenotype	phenotype only	Approved	17q	17q							1995-05-05			2011-02-11	1321								8508343																						
+HGNC:2251	CORD8	cone rod dystrophy 8	phenotype	phenotype only	Approved	1q12-q24	01q12-q24							2000-06-05			2001-06-25	54109													605549																	
+HGNC:48676	CORD17	cone rod dystrophy 17 (autosomal dominant)	phenotype	phenotype only	Approved	10q26	10q26							2013-06-06			2013-06-06	101409267								22929024					615163																	
+HGNC:30998	CPAT1	cerebral palsy, ataxic 1	phenotype	phenotype only	Approved	9p12-q12	09p12-q12							2003-12-22			2011-02-11	60502								10854109					605388																	
+HGNC:2489	CTAA1	cataract, anterior polar 1	phenotype	phenotype only	Approved	14q24-qter	14q24-qter							1994-01-05			2008-05-14	1483								1497515					115650																	
+HGNC:2490	CTAA2	cataract, anterior polar 2	phenotype	phenotype only	Approved	17p13	17p13							1994-01-05			2004-11-22	1484								885266					601202																	
+HGNC:2497	CTD	Coats disease	phenotype	phenotype only	Approved	reserved	reserved							1994-01-05			2007-06-11	1283								"11884883|10484772"					300216																	
+HGNC:2502	CTHM	cono-truncal heart malformation	phenotype	phenotype only	Approved	22q11	22q11							1995-01-26			2011-02-11																															
+HGNC:30997	CTPL1	cataract, pulverulent (autosomal recessive, early-onset)	phenotype	phenotype only	Approved	9q13-q22	09q13-q22	CAAR						2003-12-22			2011-02-11	81863								11179024					605749																	
+HGNC:2560	CXB3S	coxsackie virus B3 sensitivity	phenotype	phenotype only	Approved	19pter-q13	19pter-q13							2001-06-22			2012-10-02	1526													120050																	
+HGNC:2587	CYMD	cystoid macular dystrophy	phenotype	phenotype only	Approved	7p	07p	"DCMD|MDDC"						1994-07-12			2011-02-11	1541								8004098					153880																	
+HGNC:2733	DDU	dermo-distortive urticaria	phenotype	phenotype only	Approved	19p	19p							2000-02-11			2003-07-23	29764								"6945804|7294069"																						
+HGNC:2778	DFN5	deafness, X-linked 5	phenotype	phenotype only	Approved	reserved	reserved					Deafness associated genes	1152	1995-11-28			2007-06-11	1681																														
+HGNC:2781	DFN8	deafness, X-linked 8	phenotype	phenotype only	Approved	reserved	reserved					Deafness associated genes	1152	1996-06-21			2005-02-09	1684																														
+HGNC:2812	DFNA7	deafness, autosomal dominant 7	phenotype	phenotype only	Approved	1q21-q23	01q21-q23					Deafness associated genes	1152	1995-10-11			1996-08-08	1689								8842739					601412																	
+HGNC:2789	DFNA16	deafness, autosomal dominant 16	phenotype	phenotype only	Approved	2q24	02q24					Deafness associated genes	1152	1998-01-08			1999-12-08	1694								10364526					603964																	
+HGNC:13268	DFNA18	deafness, autosomal dominant 18	phenotype	phenotype only	Approved	3q22	03q22					Deafness associated genes	1152	2001-11-23			2011-02-11	85507								11313754					606012																	
+HGNC:2791	DFNA19	deafness, autosomal dominant 19	phenotype	phenotype only	Approved	10	10					Deafness associated genes	1152	1998-07-15			2011-02-24	1696																														
+HGNC:2794	DFNA21	deafness, autosomal dominant 21	phenotype	phenotype only	Approved	6p24.1-p22.3	06p24.1-p22.3					Deafness associated genes	1152	1999-01-29			2011-02-11	192644								"10764236|10890148|16007628"					607017																	
+HGNC:2796	DFNA24	deafness, autosomal dominant 24	phenotype	phenotype only	Approved	4q35-qter	04q35-qter					Deafness associated genes	1152	1999-06-02			2011-02-11	23723								10739769					606282																	
+HGNC:2800	DFNA29	deafness, autosomal dominant 29	phenotype	phenotype only	Approved	reserved	reserved					Deafness associated genes	1152	1999-07-06			2011-02-25	23720																														
+HGNC:2802	DFNA30	deafness, autosomal dominant 30	phenotype	phenotype only	Approved	15q25-q26	15q25-q26					Deafness associated genes	1152	1999-07-06			2011-02-11	23719								11571554					606451																	
+HGNC:2803	DFNA31	deafness, autosomal dominant 31	phenotype	phenotype only	Approved	6p21	06p21					Deafness associated genes	1152	1999-08-27			2011-02-11	347737								14729819					608645																	
+HGNC:2804	DFNA32	deafness, autosomal dominant 32	phenotype	phenotype only	Approved	11p15	11p15					Deafness associated genes	1152	1999-12-14			2011-02-17	94138																														
+HGNC:2805	DFNA33	deafness, autosomal dominant 33	phenotype	phenotype only	Approved	13q34-qter	13q34-qter					Deafness associated genes	1152	2000-02-11			2009-09-11	29779								19183916					614211																	
+HGNC:2807	DFNA35	deafness, autosomal dominant 35	phenotype	phenotype only	Approved	reserved	reserved					Deafness associated genes	1152	2000-05-25			2011-02-25	94140																														
+HGNC:18545	DFNA37	deafness, autosomal dominant 37	phenotype	phenotype only	Approved	1p21	01p21					Deafness associated genes	1152	2002-04-23			2011-02-25	317718																														
+HGNC:14070	DFNA40	deafness, autosomal dominant 40	phenotype	phenotype only	Approved	16p12	16p12					Deafness associated genes	1152	2000-11-28			2011-02-11	63945																														
+HGNC:20791	DFNA42	deafness, autosomal dominant 42	phenotype	phenotype only	Approved	5q31.1-q32	05q31.1-q32			DFNA52	deafness, autosomal dominant 52	Deafness associated genes	1152	2003-04-07	2005-03-17	2005-03-11	2011-02-18	347713								12522684																						
+HGNC:17243	DFNA43	deafness, autosomal dominant 43	phenotype	phenotype only	Approved	2p12-p11.1	02p12-p11.1					Deafness associated genes	1152	2002-04-26			2011-02-11	192676								12676899					608394																	
+HGNC:18691	DFNA45	deafness, autosomal dominant 45	phenotype	phenotype only	Approved	reserved	reserved					Deafness associated genes	1152	2002-06-11			2011-02-18	246287																														
+HGNC:18692	DFNA46	deafness, autosomal dominant 46	phenotype	phenotype only	Approved	reserved	reserved					Deafness associated genes	1152	2002-06-11			2011-02-18	246288																														
+HGNC:18693	DFNA47	deafness, autosomal dominant 47	phenotype	phenotype only	Approved	9p22-p21	09p22-p21					Deafness associated genes	1152	2002-06-11			2011-02-11	246289								12634859					608652																	
+HGNC:18694	DFNA48	deafness, autosomal dominant 48	phenotype	phenotype only	Approved	12q13-q14	12q13-q14					Deafness associated genes	1152	2002-06-11		2006-06-27	2014-09-05									"12596055|24616153"																						
+HGNC:18820	DFNA49	deafness, autosomal dominant 49	phenotype	phenotype only	Approved	1q23.2-q23.3	01q23.2-q23.3					Deafness associated genes	1152	2002-12-19			2011-02-11	317664								14627674					608372																	
+HGNC:21402	DFNA53	deafness, autosomal dominant 53	phenotype	phenotype only	Approved	14q11-q12	14q11-q12					Deafness associated genes	1152	2003-06-26			2011-02-11	353347								15958501					609965																	
+HGNC:23566	DFNA54	deafness, autosomal dominant 54	phenotype	phenotype only	Approved	5q31	05q31					Deafness associated genes	1152	2004-09-17			2008-03-17	448962								15490091					615649																	
+HGNC:33123	DFNA55	deafness, autosomal dominant 55	phenotype	phenotype only	Approved	9p13.3.-p13.2	09p13.3.-p13.2					Deafness associated genes	1152	2010-06-30			2010-06-30	109729104								20564826																						
+HGNC:33491	DFNA57	deafness, autosomal dominant 57	phenotype	phenotype only	Approved	19p13.2	19p13.2					Deafness associated genes	1152	2007-06-18			2008-03-17	100093632								18066515																						
+HGNC:34029	DFNA58	deafness, autosomal dominant 58	phenotype	phenotype only	Approved	2p21-p12	02p21-p12					Deafness associated genes	1152	2008-03-25			2009-04-23	100359395								19159392					615654																	
+HGNC:35168	DFNA59	deafness, autosomal dominant 59	phenotype	phenotype only	Approved	11p14.2-q12.3	11p14.2-q12.3					Deafness associated genes	1152	2008-11-26			2008-12-10	100271924								19030898					612642																	
+HGNC:35170	DFNA60	deafness, autosomal dominant 60	phenotype	phenotype only	Approved	2q22.1-q24.1	02q22.1-q24.1					Deafness associated genes	1152	2008-10-14			2015-04-29	109729087								23538131																						
+HGNC:37076	DFNA61	deafness, autosomal dominant 61	phenotype	phenotype only	Approved	reserved	reserved					Deafness associated genes	1152	2009-05-06			2009-05-06	109729090																														
+HGNC:37077	DFNA62	deafness, autosomal dominant 62	phenotype	phenotype only	Approved	reserved	reserved					Deafness associated genes	1152	2009-05-07			2015-02-06	109729106																														
+HGNC:38878	DFNA63	deafness, autosomal dominant 63	phenotype	phenotype only	Approved	3q25.1-q25.2	03q25.1-q25.2					Deafness associated genes	1152	2010-09-10			2010-09-10	109729100																														
+HGNC:2837	DFNB5	deafness, autosomal recessive 5	phenotype	phenotype only	Approved	14q12	14q12					Deafness associated genes	1152	1995-09-11			1998-08-05	1697								8541854					600792																	
+HGNC:2819	DFNB13	deafness, autosomal recessive 13	phenotype	phenotype only	Approved	7q34-q36	07q34-q36					Deafness associated genes	1152	1996-06-21			2008-03-17	1705								"9781028|15355440"					603098																	
+HGNC:2820	DFNB14	deafness, autosomal recessive 14	phenotype	phenotype only	Approved	7q31	07q31					Deafness associated genes	1152	1996-06-21			1999-03-31	1706								9887371					603678																	
+HGNC:2823	DFNB17	deafness, autosomal recessive 17	phenotype	phenotype only	Approved	7q31	07q31					Deafness associated genes	1152	1997-05-22			2008-03-17	1709								"9674898|15293785"					603010																	
+HGNC:2825	DFNB19	deafness, autosomal recessive 19	phenotype	phenotype only	Approved	18p11	18p11					Deafness associated genes	1152	1997-10-16			2011-02-25	1712																														
+HGNC:2827	DFNB20	deafness, autosomal recessive 20	phenotype	phenotype only	Approved	11q25-qter	11q25-qter					Deafness associated genes	1152	1997-10-24			1999-07-26	1713								10196710					604060																	
+HGNC:2833	DFNB27	deafness, autosomal recessive 27	phenotype	phenotype only	Approved	2q24	02q24					Deafness associated genes	1152	1999-07-14			2011-02-11	23713								11175289					605818																	
+HGNC:16360	DFNB32	deafness, autosomal recessive 32	phenotype	phenotype only	Approved	1p22.1-p13.3	01p22.1-p13.3					Deafness associated genes	1152	2001-08-14			2011-08-03	113877								12634867																						
+HGNC:16359	DFNB33	deafness, autosomal recessive 33	phenotype	phenotype only	Approved	10p11.23-q21.1	10p11.23-q21.1					Deafness associated genes	1152	2001-11-12			2008-10-14	170508								18781188					607239																	
+HGNC:17143	DFNB34	deafness, autosomal recessive 34	phenotype	phenotype only	Approved	3p22.1	03p22.1					Deafness associated genes	1152	2002-03-12			2011-02-18	245821																														
+HGNC:19210	DFNB38	deafness, autosomal recessive 38	phenotype	phenotype only	Approved	6q25.3-q27	06q25.3-q27					Deafness associated genes	1152	2002-09-18			2005-01-13	337991								12890929					608219																	
+HGNC:20408	DFNB40	deafness, autosomal recessive 40	phenotype	phenotype only	Approved	22q11.21-q12.1	22q11.21-q12.1					Deafness associated genes	1152	2003-10-13			2008-05-14	379003								14512974					608264																	
+HGNC:17480	DFNB43	deafness, autosomal recessive 43	phenotype	phenotype only	Approved	15q24.1-q25.2	15q24.1-q25.2					Deafness associated genes	1152	2004-09-30			2011-02-25	449481																														
+HGNC:22400	DFNB45	deafness, autosomal recessive 45	phenotype	phenotype only	Approved	1q43-q44	01q43-q44					Deafness associated genes	1152	2004-09-30			2008-03-17	449483								18325041					612433																	
+HGNC:31085	DFNB46	deafness, autosomal recessive 46	phenotype	phenotype only	Approved	18p11.32-p11.31	18p11.32-p11.31					Deafness associated genes	1152	2004-09-30			2006-09-16	449488								15637723					609647																	
+HGNC:31086	DFNB47	deafness, autosomal recessive 47	phenotype	phenotype only	Approved	2p25.3-p24.2	02p25.3-p24.2					Deafness associated genes	1152	2004-09-30			2006-08-04	449489								16261342					609946																	
+HGNC:31380	DFNB50	deafness, autosomal recessive 50	phenotype	phenotype only	Approved	12q23-qter	12q23-qter					Deafness associated genes	1152	2004-03-26			2011-02-22	404542																														
+HGNC:24367	DFNB51	deafness, autosomal recessive 51	phenotype	phenotype only	Approved	11p13-p12	11p13-p12					Deafness associated genes	1152	2004-09-17			2011-02-11	448963								16158433					609941																	
+HGNC:24038	DFNB54	deafness, autosomal recessive 54	phenotype	phenotype only	Approved	1p34.2-p32.1	01p34.2-p32.1					Deafness associated genes	1152	2010-03-24			2010-03-24	109729086																														
+HGNC:28876	DFNB55	deafness, autosomal recessive 55	phenotype	phenotype only	Approved	4q12-q13.2	04q12-q13.2					Deafness associated genes	1152	2004-12-23			2008-05-15	494148								16098016					609952																	
+HGNC:31877	DFNB56	deafness, autosomal recessive 56	phenotype	phenotype only	Approved	reserved	reserved					Deafness associated genes	1152	2004-12-23			2011-02-22	494149																														
+HGNC:18252	DFNB58	deafness, autosomal recessive 58	phenotype	phenotype only	Approved	2q14.2-q14.3	02q14.2-q14.3					Deafness associated genes	1152	2005-09-13			2011-02-22	619211																														
+HGNC:29439	DFNB62	deafness, autosomal recessive 62	phenotype	phenotype only	Approved	12p13.2-p11.23	12p13.2-p11.23					Deafness associated genes	1152	2006-05-10			2011-02-11	692220								16650082					610143																	
+HGNC:28113	DFNB65	deafness, autosomal recessive 65	phenotype	phenotype only	Approved	20q13.2-q13.32	20q13.2-q13.32					Deafness associated genes	1152	2006-05-10			2006-05-10	692219								16596430					610248																	
+HGNC:33121	DFNB69	deafness, autosomal recessive 69	phenotype	phenotype only	Approved	reserved	reserved					Deafness associated genes	1152	2006-08-25			2007-06-15	751783																														
+HGNC:33172	DFNB71	deafness, autosomal recessive 71	phenotype	phenotype only	Approved	8p22-p21.3	08p22-p21.3					Deafness associated genes	1152	2009-05-05			2009-05-05	100302513								19229252					612789																	
+HGNC:33503	DFNB75	deafness, autosomal recessive 75	phenotype	phenotype only	Approved	reserved	reserved					Deafness associated genes	1152	2007-06-21			2011-02-11	100093716																														
+HGNC:35183	DFNB78	deafness, autosomal recessive 78	phenotype	phenotype only	Approved	reserved	reserved					Deafness associated genes	1152	2008-10-30			2009-05-08	109729088																														
+HGNC:35185	DFNB80	deafness, autosomal recessive 80	phenotype	phenotype only	Approved	2p21-p16.1	02p21-p16.1					Deafness associated genes	1152	2008-10-30			2013-07-23	109729105								23235334																						
+HGNC:35420	DFNB81	deafness, autosomal recessive 81	phenotype	phenotype only	Approved	19p13.3-p13.11	19p13.3-p13.11					Deafness associated genes	1152	2008-11-26			2011-08-03	100653390								21660509																						
+HGNC:37051	DFNB83	deafness, autosomal recessive 83	phenotype	phenotype only	Approved	9p23-p21.2	09p23-p21.2					Deafness associated genes	1152	2010-01-07			2010-01-07	100359400								19888295					613685																	
+HGNC:37053	DFNB85	deafness, autosomal recessive 85	phenotype	phenotype only	Approved	17p12-q11.2	17p12-q11.2					Deafness associated genes	1152	2010-01-07			2010-01-07	100359399								19888295					613392																	
+HGNC:37290	DFNB87	deafness, autosomal recessive 87	phenotype	phenotype only	Approved	reserved	reserved					Deafness associated genes	1152	2009-09-11			2011-02-11	109729093																														
+HGNC:37649	DFNB90	deafness, autosomal recessive 90	phenotype	phenotype only	Approved	7p22.1-p15.3	07p22.1-p15.3					Deafness associated genes	1152	2011-08-03			2011-08-03	109729094								21734401																						
+HGNC:37770	DFNB92	deafness, autosomal recessive 92	phenotype	phenotype only	Approved	reserved	reserved					Deafness associated genes	1152	2010-02-17			2010-02-17	109729107																														
+HGNC:39437	DFNB96	deafness, autosomal recessive 96	phenotype	phenotype only	Approved	1p36.31-p36.13	01p36.31-p36.13					Deafness associated genes	1152	2010-12-21			2011-11-29	100861440								21937999					614414																	
+HGNC:2842	DFNM1	deafness (recessive, non-syndromic) modifier 1	phenotype	phenotype only	Approved	1q23	01q23							2000-06-29		2015-11-18	2015-11-18	54362								11101839																						
+HGNC:31866	DFNM2	deafness (mitochondrial) modifier 2	phenotype	phenotype only	Approved	8p23	08p23							2004-12-20			2004-12-20	494142								"11388757|10788333"																						
+HGNC:2777	DFNX3	deafness, X-linked 3	phenotype	phenotype only	Approved	Xp21.2	Xp21.2			DFN4	deafness, X-linked 4, congenital sensorineural	Deafness associated genes	1152	1994-12-08	2014-01-28	2014-01-28	2014-01-28	1680								"7942846|18005182"					300030																	
+HGNC:26547	DFNY1	deafness, Y-linked 1	phenotype	phenotype only	Approved	Y	Y							2006-06-27			2011-02-11	724074								15173246					400043																	
+HGNC:2875	DIANPH	diabetic nephropathy	phenotype	phenotype only	Approved	18q22.3-q23	18q22.3-q23							1999-10-28			2014-02-05	23771								"12427143|12906866"																						
+HGNC:2881	DIH1	diaphragmatic hernia 1	phenotype	phenotype only	Approved	15q26.1-q26.2	15q26.1-q26.2	HCD						1995-01-26			2006-04-26	1732								"15057983|15750894"					142340																	
+HGNC:3063	DURS1	Duane retraction syndrome 1	phenotype	phenotype only	Approved	8q13	08q13				Duane's retraction syndrome 1			1999-07-14		2007-10-04	2007-10-04	10674								7849713					126800																	
+HGNC:3088	DWS	dandy-walker syndrome	phenotype	phenotype only	Approved	reserved	reserved							1991-08-21			2007-06-16	1858								15338008					220200																	
+HGNC:3102	DYT2	dystonia 2, torsion (autosomal recessive)	phenotype	phenotype only	Approved	reserved	reserved							1987-09-11			2007-06-19	1862								"3400517|2203908"																						
+HGNC:3107	DYT7	dystonia 7, torsion (autosomal dominant)	phenotype	phenotype only	Approved	18p	18p							1996-11-11			1998-07-16	1866								8894706					602124																	
+HGNC:3101	DYT13	dystonia 13, torsion	phenotype	phenotype only	Approved	1p36	01p36							2000-06-01			2003-09-09	93983													607671					160001												
+HGNC:31376	DYT15	dystonia 15, myoclonic	phenotype	phenotype only	Approved	18p11	18p11							2004-03-25			2004-03-25	317714								12391345					607488					306169												
+HGNC:35416	DYT17	dystonia 17	phenotype	phenotype only	Approved	20p11.22-q13.12	20p11.22-q13.12							2008-11-21			2008-11-21	100216344								18688663					612406					306184												
+HGNC:39436	DYT21	dystonia 21, torsion (autosomal dominant)	phenotype	phenotype only	Approved	2q14.3-q21.3	02q14.3-q21.3							2010-12-22			2011-03-18	100885773								21301909					614588					311367												
+HGNC:39512	DYT22	dystonia 22	phenotype	phenotype only	Approved	reserved	reserved							2011-02-02			2015-05-22	109729101																														
+HGNC:3108	DYX1	dyslexia susceptibility 1	phenotype	phenotype only	Approved	15	15	RD						1996-07-19			2014-02-05	1867								"3652490|8981944"																						
+HGNC:3109	DYX2	dyslexia susceptibility 2	phenotype	phenotype only	Approved	6	06							1996-07-19			1999-11-26									7939663																						
+HGNC:3110	DYX3	dyslexia susceptibility 3	phenotype	phenotype only	Approved	2p16-p15	02p16-p15							1999-09-08			1999-11-26	11192								10507721					604254																	
+HGNC:3111	DYX4	dyslexia susceptibility 4	phenotype	phenotype only	Approved	6q13-q16.2	06q13-q16.2							1999-11-26			2002-03-06	26300								11496366																						
+HGNC:18343	DYX5	dyslexia susceptibility 5	phenotype	phenotype only	Approved	3p12-q13	03p12-q13							2002-03-07			2002-03-07	171089								11584043					606896																	
+HGNC:19352	DYX6	dyslexia susceptibility 6	phenotype	phenotype only	Approved	18p11.2	18p11.2							2002-10-11			2002-10-11	266691								11743577					606616																	
+HGNC:19324	DYX7	dyslexia susceptibility 7	phenotype	phenotype only	Approved	11p15.5	11p15.5							2002-10-09	2002-10-14		2006-11-29	266726								14755455																						
+HGNC:19951	DYX8	dyslexia susceptibility 8	phenotype	phenotype only	Approved	1p36-p34	01p36-p34							2004-04-30			2004-10-21	406874								"11424982|15108193"					608995																	
+HGNC:16755	DYX9	dyslexia susceptibility 9	phenotype	phenotype only	Approved	Xq27.3	Xq27.3			DXY9				2005-02-22	2006-06-08		2006-06-08	474159								15342694					300509																	
+HGNC:3112	E11S	ECHO virus (serotypes 4, 6, 11, 19) sensitivity	phenotype	phenotype only	Approved	19q13.1-q13.3	19q13.1-q13.3							2001-06-22			2012-10-02	1878													129150																	
+HGNC:3130	EBM	epidermolysis bullosa, macular type	phenotype	phenotype only	Approved	X	X							2001-06-22			2012-10-02	1881													302000																	
+HGNC:3136	EBR3	epidermolysis bullosa 3, progressiva	phenotype	phenotype only	Approved	reserved	reserved	ULG4						2001-06-22			2012-10-02	1884								2791656					226500																	
+HGNC:3137	EBR4	epidermolysis bullosa 4, pseudojunctional (intraepidermal)	phenotype	phenotype only	Approved	reserved	reserved							1991-07-15			2011-02-25	1885																														
+HGNC:3144	ECA1	epilepsy, childhood absence 1	phenotype	phenotype only	Approved	8q24	08q24							2000-05-02			2000-05-02	50966													600131																	
+HGNC:3186	EEC1	ectrodactyly, ectodermal dysplasia and cleft lip/palate syndrome 1	phenotype	phenotype only	Approved	7q11.2-q21.3	07q11.2-q21.3			EEC				1993-01-19			1998-05-27	1913								1424230					129900																	
+HGNC:3187	EEC2	ectrodactyly, ectodermal dysplasia and cleft lip/palate syndrome 2	phenotype	phenotype only	Approved	19	19							1998-05-27			2011-02-25	1914								9443880																						
+HGNC:3215	EEGV1	electro-encephalographic variant pattern 1	phenotype	phenotype only	Approved	20q	20q							1991-06-07			2003-03-17	1940								1346390					130180																	
+HGNC:3237	EGI	epilepsy, generalized, idiopathic	phenotype	phenotype only	Approved	6p21.3	06p21.3							1991-11-21			2014-02-04	1957								1922810					600669																	
+HGNC:3306	EJM2	epilepsy, juvenile myoclonic 2	phenotype	phenotype only	Approved	15q14	15q14	EIG7						2000-07-31			2011-02-10	50715								9259280					604827																	
+HGNC:3339	EMWX	episodic muscle weakness, X-linked	phenotype	phenotype only	Approved	Xp22.3	Xp22.3							1999-04-15			1999-10-29	10118								10486330					300211																	
+HGNC:3369	ENUR1	enuresis, nocturnal 1	phenotype	phenotype only	Approved	13q13-q14.3	13q13-q14.3							1995-10-11			2008-06-30	2031								7670476					600631																	
+HGNC:3370	ENUR2	enuresis, nocturnal 2	phenotype	phenotype only	Approved	12q13-q21	12q13-q21							1995-10-11			2008-07-03	2032													600808																	
+HGNC:3440	ERCM1	excision repair complementing defective repair in mouse cells	phenotype	phenotype only	Approved	3	03							2001-06-22			2012-10-02	2076													133535																	
+HGNC:3486	ETM1	essential tremor 1	phenotype	phenotype only	Approved	3q13	03q13	FET1						1997-12-05			2011-02-14									9288103																						
+HGNC:3487	ETM2	essential tremor 2	phenotype	phenotype only	Approved	2p25-p22	02p25-p22	ETM						1997-12-19			2008-05-15	2112								9399207					602134																	
+HGNC:32785	EVR3	exudative vitreoretinopathy 3	phenotype	phenotype only	Approved	11p13-p12	11p13-p12							2006-05-10			2008-05-14	81864								11179025					605750																	
+HGNC:3514	EXT3	exostoses (multiple) 3	phenotype	phenotype only	Approved	19p	19p	EXT2						1994-09-07			2007-11-16	2133								8081357					600209																	
+HGNC:3523	EYCL1	eye color 1 (green/blue)	phenotype	phenotype only	Approved	19	19			GEY				2001-06-22			2012-10-02	2141								3568446																						
+HGNC:37158	FCMTE1	familial cortical myoclonic tremor with epilepsy 1	phenotype	phenotype only	Approved	8q24	08q24	"BAFME1|FAME1"	"benign adult familial myoclonic epilepsy 1|familial adult myoclonic epilepsy 1"					2009-08-03			2009-11-11	50968								10441581																						
+HGNC:37159	FCMTE2	familial cortical myoclonic tremor with epilepsy 2	phenotype	phenotype only	Approved	2p11.1-q12.2	02p11.1-q12.2	"BAFME2|FAME2|ADCME"	"benign adult familial myoclonic epilepsy 2|familial adult myoclonic epilepsy 2|cortical myoclonus and epilepsy, autosomal dominant"					2009-08-03			2009-11-11	554188								11701600																						
+HGNC:37160	FCMTE3	familial cortical myoclonic tremor with epilepsy 3	phenotype	phenotype only	Approved	5p15.31-p15	05p15.31-p15	"BAFME|FAME"						2009-08-03			2011-03-18	109729092								20548044																						
+HGNC:3627	FCP1	F-cell production 1	phenotype	phenotype only	Approved	Xp22.2	Xp22.2	"FCPX|HBFQTL3"						1994-12-14			2014-02-04	2221								2461753					305435																	
+HGNC:3643	FEB1	febrile convulsions 1	phenotype	phenotype only	Approved	8q13-q21	08q13-q21							1998-03-30			2008-05-15	2233								8730286					121210																	
+HGNC:3644	FEB2	febrile convulsions 2	phenotype	phenotype only	Approved	19p13.3	19p13.3							1998-03-30			2007-05-15	2234								9384604					602477																	
+HGNC:3646	FEB4	febrile convulsions 4	phenotype	phenotype only	Approved	5q14-q15	05q14-q15							1999-11-19			2014-02-04									"10587582|16273391"																						
+HGNC:33477	FEB5	febrile convulsions 5	phenotype	phenotype only	Approved	6q22-q24	06q22-q24							2007-05-15			2011-02-10	619398								12429594					609255																	
+HGNC:33478	FEB6	febrile convulsions 6	phenotype	phenotype only	Approved	18p11.2	18p11.2							2007-05-15			2011-02-10	619397								15557493					609253																	
+HGNC:33479	FEB7	febrile convulsions 7	phenotype	phenotype only	Approved	21q22	21q22							2007-05-15			2011-02-10	100049160								17054683					611515																	
+HGNC:3699	FGS2	FG syndrome 2	phenotype	phenotype only	Approved	Xq11-q28	Xq11-q28							1998-03-25			2014-02-04	2270								"11078572|22528511"																						
+HGNC:15596	FGS3	FG syndrome 3	phenotype	phenotype only	Approved	Xp22.3	Xp22.3							2001-05-03			2011-02-10	93985								12239712					300406																	
+HGNC:37735	FGS5	FG syndrome 5	phenotype	phenotype only	Approved	Xq22.3	Xq22.3							2010-02-09			2011-02-10	780900								16283679					300581																	
+HGNC:3777	FMR3	fragile X mental retardation associated 3	phenotype	phenotype only	Approved	Xq28	Xq28							2000-07-31			2013-03-18	56247								"11015457|16469443"										159590												
+HGNC:3952	FRDA2	Friedreich ataxia 2	phenotype	phenotype only	Approved	9p23-p11	09p23-p11							1997-10-16			2002-12-11	2420								"10735274|11523563"					601992																	
+HGNC:3966	FSHMD1A	facioscapulohumeral muscular dystrophy 1A	phenotype	phenotype only	Approved	4q35	04q35			"FMD|FSHD"				1994-02-22			2011-02-10	2489																														
+HGNC:3967	FSHMD1B	facioscapulohumeral muscular dystrophy 1B	phenotype	phenotype only	Approved	reserved	reserved							1994-02-22			2007-07-13	2490								"8328457|10732819|7927331"																						
+HGNC:4011	FUSE	polykaryocytosis promoter	phenotype	phenotype only	Approved	10	10							2001-06-22			2012-10-02	2522													174750																	
+HGNC:33452	GBD2	gallbladder disease 2	phenotype	phenotype only	Approved	1p36.21	01p36.21							2007-05-01			2011-02-17	100048905								16400619					609918																	
+HGNC:33453	GBD3	gallbladder disease 3	phenotype	phenotype only	Approved	1p34.3	01p34.3							2007-05-01			2011-02-10	100048906								16400619					609919																	
+HGNC:4211	GCY	growth control, Y chromosome influenced	phenotype	phenotype only	Approved	Yq11	Yq11	"STA|TSY"						2001-06-22			2012-10-02	2656													475000																	
+HGNC:14252	GINGF2	gingival fibromatosis, hereditary, 2	phenotype	phenotype only	Approved	5q13-q22	05q13-q22	"GGF2|HGF2"						2001-01-02			2008-05-15	64644								11386754					605544																	
+HGNC:16333	GINGF3	gingival fibromatosis, hereditary, 3	phenotype	phenotype only	Approved	2p23.3-p22.3	02p23.3-p22.3							2014-11-28			2014-11-28	780916								"16098013|19633868"					609955																	
+HGNC:37734	GINGF4	gingival fibromatosis, hereditary, 4	phenotype	phenotype only	Approved	11p15	11p15							2010-02-09			2011-02-10	100124414								17075716					611010																	
+HGNC:4302	GLC1B	glaucoma 1, open angle, B (adult-onset)	phenotype	phenotype only	Approved	2cen-q13	02cen-q13							1996-05-30			2008-05-15	2722								8812425					606689																	
+HGNC:4303	GLC1C	glaucoma 1, open angle, C	phenotype	phenotype only	Approved	3q21-q24	03q21-q24							1996-08-21			1997-02-27	2723								9012402					601682																	
+HGNC:4304	GLC1D	glaucoma 1, open angle, D (adult-onset)	phenotype	phenotype only	Approved	8q23	08q23							1997-11-05			1998-05-11	2724													602429																	
+HGNC:23256	GLC1H	glaucoma 1, open angle, H (adult-onset)	phenotype	phenotype only	Approved	2p16.3-p15	02p16.3-p15							2004-02-04			2006-10-30	399564													611276																	
+HGNC:31912	GLC1I	glaucoma 1, open angle, I	phenotype	phenotype only	Approved	15q11-q13	15q11-q13							2005-02-04			2005-02-04	497188								15914615					609745																	
+HGNC:26986	GLC1J	glaucoma 1, open angle, J (juvenile-onset)	phenotype	phenotype only	Approved	9q22	09q22	JOAG2						2005-07-01			2005-08-09	574078								15108121					608695																	
+HGNC:21341	GLC1K	glaucoma 1, open angle, K (juvenile-onset)	phenotype	phenotype only	Approved	20p12	20p12	JOAG3						2005-07-01			2005-08-09	574077								15108121					608696																	
+HGNC:33120	GLC1L	glaucoma 1, open angle, L (adult-onset)	phenotype	phenotype only	Approved	3p22-p21	03p22-p21							2006-08-24			2006-08-29	751781								15906098																						
+HGNC:33162	GLC1M	glaucoma 1, open angle, M (juvenile-onset)	phenotype	phenotype only	Approved	5q	05q							2006-10-31			2007-07-27	777643								"16518310|17563728"					610535																	
+HGNC:33163	GLC1N	glaucoma 1, open angle, N (juvenile-onset)	phenotype	phenotype only	Approved	15q22-q24	15q22-q24							2006-11-01			2006-12-06	777645								17122119					611274																	
+HGNC:41965	GLC1P	glaucoma 1, open angle, P	phenotype	phenotype only	Approved	12q14	12q14							2011-05-24			2011-06-22	101448070								21447600																						
+HGNC:41966	GLC1Q	glaucoma 1, open angle, Q	phenotype	phenotype only	Approved	4q35.1-q35.2	04q35.1-q35.2							2013-05-09			2013-05-09	109729102								21896847																						
+HGNC:4307	GLC2A	glaucoma 2, angle closure	phenotype	phenotype only	Approved	reserved	reserved							1996-08-21			2011-02-10	2727																														
+HGNC:4309	GLC3B	glaucoma 3, primary infantile, B	phenotype	phenotype only	Approved	1p36	01p36							1996-08-21			2003-10-10	2728								8842741					600975																	
+HGNC:30028	GLC3C	glaucoma 3, primary congenital, C	phenotype	phenotype only	Approved	14q24.3-q31.1	14q24.3-q31.1							2004-02-04			2011-02-10	399565													613085																	
+HGNC:4363	GLYB	glycine B complementing	phenotype	phenotype only	Approved	8q21.1-qter	08q21.1-qter							2001-06-22			2012-10-02	2757													138480																	
+HGNC:4365	GLYS1	glycosuria 1, renal	phenotype	phenotype only	Approved	6p21.3	06p21.3							1993-01-26			2011-02-15	2759								6524599																						
+HGNC:4457	GPDS1	glaucoma-related pigment dispersion syndrome 1	phenotype	phenotype only	Approved	7q35-q36	07q35-q36							1998-10-12			1998-10-12	7986								9076212					600510																	
+HGNC:4619	GSM1	geniospasm 1	phenotype	phenotype only	Approved	9q13-q21	09q13-q21							1997-12-16			2008-05-14	2933								9382105					190100																	
+HGNC:4671	GTS	Gilles de la Tourette syndrome	phenotype	phenotype only	Approved	11q23	11q23							1989-05-16			2011-02-25	2973								"16224024|10986045"																						
+HGNC:18573	HCHOLA4	hypercholesterolemia, autosomal dominant 4	phenotype	phenotype only	Approved	16q22.1	16q22.1							2002-05-22			2011-02-18	246132								20571503																						
+HGNC:4841	HCL1	hair color 1 (brown)	phenotype	phenotype only	Approved	19p13.1-q13.11	19p13.1-q13.11	BRHC						2001-06-22			2012-10-02	3056																														
+HGNC:4842	HCL2	hair color 2 (red)	phenotype	phenotype only	Approved	4q28-q31	04q28-q31	"RHC|RHA"						2001-06-22			2012-10-02	3057																														
+HGNC:4843	HCL3	hair color 3 (brown)	phenotype	phenotype only	Approved	15q	15q							1996-11-15			2011-02-10									8875191																						
+HGNC:4850	HCVS	human coronavirus sensitivity	phenotype	phenotype only	Approved	15q11-qter	15q11-qter							2001-06-22			2012-10-02	3063								6285532					122460																	
+HGNC:30996	HDLCQ1	high density lipoprotein cholesterol level QTL 1	phenotype	phenotype only	Approved	9p	09p							2003-12-22			2011-02-10	192144								11743583					606613																	
+HGNC:5020	HNB1	hereditary neuroblastoma 1	phenotype	phenotype only	Approved	16p13-p12	16p13-p12							1999-07-14			2011-02-18	54111								12438263																						
+HGNC:5049	HOAC	hypoacusis 2 (autosomal recessive)	phenotype	phenotype only	Approved	reserved	reserved	ULG4						1988-08-01			2011-02-10	3193								2791656																						
+HGNC:5143	HPC1	hereditary prostate cancer 1	phenotype	phenotype only	Approved	1q24-q25	01q24-q25							1998-09-17			2011-02-10									"8910276|9497242"																						
+HGNC:5146	HPCX	hereditary prostate cancer, X-linked	phenotype	phenotype only	Approved	Xq27-q28	Xq27-q28							1999-04-22			2011-02-10	9566								9771711					300147																	
+HGNC:5149	HPE1	holoprosencephaly 1, alobar	phenotype	phenotype only	Approved	21q22.3	21q22.3							1992-12-01			2007-11-16	3244								7485157					236100																	
+HGNC:5153	HPFH2	hereditary persistence of fetal hemoglobin, heterocellular, Indian type	phenotype	phenotype only	Approved	7q36	07q36							1992-04-10			2014-02-04	3247													142335																	
+HGNC:23824	HPLH1	hemophagocytic lymphohistiocytosis 1	phenotype	phenotype only	Approved	9q21.3-q22	09q21.3-q22	FHL1						2003-12-11			2011-02-10	27259								9915955					267700																	
+HGNC:37055	HPP1	hyperpigmentation, progressive, 1	phenotype	phenotype only	Approved	19pter-p13.1	19pter-p13.1			FPH1	familial progressive hyperpigmentation 1			2009-03-25	2012-03-02	2012-03-02	2012-03-02	780897								16709486																						
+HGNC:5165	HPT	hypoparathyroidism	phenotype	phenotype only	Approved	Xq27	Xq27	HYPX						2001-06-22			2014-02-04	3258								16167084					307700																	
+HGNC:5277	HTC1	hypertrichosis 1 (universalis, congenital)	phenotype	phenotype only	Approved	8	08		Ambras syndrome					1994-01-05			2011-02-10	3341								"9712536|11932999"					145701																	
+HGNC:5278	HTC2	hypertrichosis 2 (generalized, congenital)	phenotype	phenotype only	Approved	Xq27.1	Xq27.1	"CGH|HCG"			hypertrichosis 2 (generalised, congenital)			1996-03-19		2006-12-07	2014-02-04	3342								"12752576|21636067|23603273"																						
+HGNC:5280	HTL	high L-leucine transport	phenotype	phenotype only	Approved	20	20	LEUT						2001-06-22			2014-02-04	3343								6717430					151310																	
+HGNC:13822	HYD2	hypodontia 2 (autosomal recessive)	phenotype	phenotype only	Approved	16q12.1	16q12.1				hypodontia, autosomal recessive (2)			2000-11-24		2014-02-04	2014-02-04	8137								9529357					602639																	
+HGNC:5332	IBD2	inflammatory bowel disease 2	phenotype	phenotype only	Approved	12p13.2-q24.1	12p13.2-q24.1							1998-07-10			2008-07-03	3378								"8841195|9634527"					601458																	
+HGNC:13863	IBD3	inflammatory bowel disease 3	phenotype	phenotype only	Approved	6p	06p							2000-11-15			2011-02-10	30829								10577918					604519																	
+HGNC:5333	IBD4	inflammatory bowel disease 4	phenotype	phenotype only	Approved	14q11-q12	14q11-q12							2000-03-29			2008-05-14	50608								10747815					606675																	
+HGNC:5334	IBD5	inflammatory bowel disease 5	phenotype	phenotype only	Approved	5q31-q33	05q31-q33							2000-05-05			2007-12-07	50941								10777714					606348																	
+HGNC:5335	IBD6	inflammatory bowel disease 6	phenotype	phenotype only	Approved	19p13	19p13							2000-05-05			2007-11-30	50942								10777714					606674																	
+HGNC:14242	IBD7	inflammatory bowel disease 7	phenotype	phenotype only	Approved	1p36	01p36							2000-12-12			2000-12-12	57042								"10814724|9636179"					605225																	
+HGNC:20235	IBD8	inflammatory bowel disease 8	phenotype	phenotype only	Approved	16p	16p							2003-01-10			2014-02-04	170595								14627676					606668																	
+HGNC:20236	IBD9	inflammatory bowel disease 9	phenotype	phenotype only	Approved	3p26	03p26							2003-01-10			2003-01-10	317669								12354785					608448																	
+HGNC:5336	IBGC1	idiopathic basal ganglia calcification 1	phenotype	phenotype only	Approved	14q	14q							1999-06-02			2014-02-04	23706								"10441584|23054591"																						
+HGNC:5352	ICR1	ichthyosis congenita I, erythromatous lamellar ichthyosis, ichthyosiform erythroderma	phenotype	phenotype only	Approved	reserved	reserved							1991-07-04			2011-02-10	3388																														
+HGNC:5354	ICR3	ichthyosis congenita III, vulgaris-like recessive ichthyosis	phenotype	phenotype only	Approved	reserved	reserved							1991-07-04			2011-02-10	3390																														
+HGNC:5355	ICR4	ichthyosis congenita IV, ichthyosis-prematurity syndrome	phenotype	phenotype only	Approved	reserved	reserved							1991-07-04			2011-02-10	3391																														
+HGNC:5356	ICR5	ichthyosis congenita V, Sjogren-Larsson-like	phenotype	phenotype only	Approved	reserved	reserved							1991-07-04			2011-02-10																															
+HGNC:5357	ICS1	immotile cilia syndrome 1	phenotype	phenotype only	Approved	6p21.3	06p21.3							1993-01-28			2011-02-10									1601418																						
+HGNC:5374	IDDM3	insulin dependent diabetes mellitus 3	phenotype	phenotype only	Approved	15q26	15q26							1994-11-08		2016-06-08	2016-06-08	3402								7842018					600318																	
+HGNC:5375	IDDM4	insulin dependent diabetes mellitus 4	phenotype	phenotype only	Approved	11q13	11q13							1994-11-08		2016-06-08	2016-06-08	3403								"7842018|8072542"					600319																	
+HGNC:5377	IDDM6	insulin dependent diabetes mellitus 6	phenotype	phenotype only	Approved	18q21	18q21							1994-11-08		2016-06-08	2016-06-08	3405								9215667					601941																	
+HGNC:5378	IDDM7	insulin dependent diabetes mellitus 7	phenotype	phenotype only	Approved	2q31	02q31							1994-11-08		2016-06-08	2016-06-08	3406								7813807					600321																	
+HGNC:5379	IDDM8	insulin dependent diabetes mellitus 8	phenotype	phenotype only	Approved	6q27	06q27							1995-02-02		2016-06-08	2016-06-08	3407								7573053					600883																	
+HGNC:5380	IDDM9	insulin dependent diabetes mellitus 9	phenotype	phenotype only	Approved	3q22.3-q25.1	03q22.3-q25.1							1995-02-02		2016-06-08	2016-06-08	3408								"7567975|10213040|9662409|10527397"																						
+HGNC:5365	IDDM11	insulin dependent diabetes mellitus 11	phenotype	phenotype only	Approved	14q24.3-q31	14q24.3-q31							1995-03-29		2016-06-08	2016-06-08	3410								8617492					601208																	
+HGNC:5367	IDDM13	insulin dependent diabetes mellitus 13	phenotype	phenotype only	Approved	2q34	02q34							1996-04-25		2016-06-08	2016-06-08	3412								8650584					601318																	
+HGNC:5368	IDDM14	insulin dependent diabetes mellitus 14	phenotype	phenotype only	Approved	2q34-q35	02q34-q35							1996-04-25		2016-06-08	2016-06-08	3413								8650584																						
+HGNC:5369	IDDM15	insulin dependent diabetes mellitus 15	phenotype	phenotype only	Approved	6q21	06q21							1996-08-08		2016-06-08	2016-06-08	3414								8981961					601666																	
+HGNC:5370	IDDM16	insulin dependent diabetes mellitus 16	phenotype	phenotype only	Approved	14q32.32-q32.33	14q32.32-q32.33							1997-08-22		2016-06-08	2016-06-08	3415								12209360																						
+HGNC:5371	IDDM17	insulin dependent diabetes mellitus 17	phenotype	phenotype only	Approved	10q25	10q25							1998-11-13		2016-06-08	2016-06-08	8691								9788970					603266																	
+HGNC:5372	IDDM18	insulin dependent diabetes mellitus 18	phenotype	phenotype only	Approved	5q33-q35	05q33-q35							2000-09-01		2016-06-08	2016-06-08	57044													605598																	
+HGNC:5459	IGAD1	immunoglobulin A (IgA) deficiency susceptibility 1	phenotype	phenotype only	Approved	6p21.3	06p21.3							1999-08-11			2014-02-03	10986								"10090895|16328471"					137100																	
+HGNC:5463	IGES	immunoglobulin E concentration, serum	phenotype	phenotype only	Approved	5q31.1	05q31.1							1994-07-20			2009-12-16	3478								8178175					147061																	
+HGNC:5873	IGLP1	immune response to synthetic polypeptides 1	phenotype	phenotype only	Approved	6p21.3	06p21.3							2000-05-08			2014-11-19	7925								3923830					147080																	
+HGNC:5874	IGLP2	immune response to synthetic polypeptides 2	phenotype	phenotype only	Approved	6p21.3	06p21.3							2000-05-08			2014-11-19	7926								3923830					147090																	
+HGNC:5954	IHG1	iris hypoplasia with glaucoma 1	phenotype	phenotype only	Approved	X	X			IHG				2001-06-22			2012-10-02	3548													308500																	
+HGNC:6185	IV	inversus situs, viscerum	phenotype	phenotype only	Approved	14q32	14q32	SIV						1993-06-11			2011-03-15	8114																														
+HGNC:6194	JBS	Jacobsen syndrome	phenotype	phenotype only	Approved	11q24.1	11q24.1							1990-03-21			1990-06-12	3719																														
+HGNC:6198	JPD	juvenile periodontitis	phenotype	phenotype only	Approved	4	04							1988-08-31			2011-02-10																															
+HGNC:6311	KFM	Klippel-Feil malformation	phenotype	phenotype only	Approved	reserved	reserved			KFS				1994-01-05			2011-02-10																															
+HGNC:6382	KMS	Kabuki mental retardation syndrome	phenotype	phenotype only	Approved	reserved	reserved				Kabuki make-up syndrome			1989-05-23		2006-01-19	2011-02-11																															
+HGNC:6466	KSS	Kearns-Sayre syndrome	phenotype	phenotype only	Approved	mitochondria	mitochondria							1990-06-11			2014-02-03																															
+HGNC:6468	KWE	keratolytic winter erythema (Oudtshoorn skin disease)	phenotype	phenotype only	Approved	8p23-p22	08p23-p22							1997-10-24			2003-10-17	3896								9311742																						
+HGNC:6479	LAKLG	lymphokine-activated killer cell ligand	phenotype	phenotype only	Approved	6	06			LAKL				1991-08-08	2005-01-10		2005-01-10	3905													153435																	
+HGNC:15737	LCS1	lymphedema-cholestasis syndrome 1	phenotype	phenotype only	Approved	15q	15q	"CHSL|LCS"						2001-05-24			2011-02-10	84565								10968776					214900																	
+HGNC:32230	LGMD1G	limb girdle muscular dystrophy 1G (autosomal dominant)	phenotype	phenotype only	Approved	4q21.21	04q21.21							2006-11-10			2006-11-10	553991								15367920																						
+HGNC:38505	LGMD1H	limb girdle muscular dystrophy 1H (autosomal dominant)	phenotype	phenotype only	Approved	3p25-p23	03p25-p23							2010-05-25			2011-02-10	100529230								20068593					613530																	
+HGNC:6755	MAA	microphthalmia or anophthalmia and associated anomalies	phenotype	phenotype only	Approved	X	X							2001-06-22			2014-02-03	4080																														
+HGNC:33244	MACOM	macrophthalmia, colobomatous, with microcornea	phenotype	phenotype only	Approved	2p23-p16	02p23-p16							2007-01-11			2014-02-03	791229								17506091																						
+HGNC:6777	MAFD1	major affective disorder 1	phenotype	phenotype only	Approved	18p	18p	BPAD						2001-06-22			2012-10-02	4095								8533768					125480																	
+HGNC:6778	MAFD2	major affective disorder 2	phenotype	phenotype only	Approved	Xq27-q28	Xq27-q28							2001-06-22			2012-10-02	4096													309200																	
+HGNC:6926	MBS1	Moebius syndrome 1	phenotype	phenotype only	Approved	13q12.2	13q12.2			MBS				1991-08-21			1999-11-15	4156								1870098					157900																	
+HGNC:6927	MBS2	Moebius syndrome 2	phenotype	phenotype only	Approved	3q21-q22	03q21-q22	HCFP1	hereditary congenital facial paresis 1					1999-10-08			2011-02-11	7880								8872479					601471																	
+HGNC:6928	MBS3	Moebius syndrome 3	phenotype	phenotype only	Approved	10q21.3-q22.1	10q21.3-q22.1	HCFP2	hereditary congenital facial paresis 2					1999-10-08			2011-02-11	22811								10441582					604185																	
+HGNC:6939	MCDR1	macular dystrophy, retinal, 1 (North Carolina type)	phenotype	phenotype only	Approved	6q14-q16.2	06q14-q16.2							1992-02-17			2011-02-11	4167								1562260																						
+HGNC:20206	MCDR3	macular dystrophy, retinal 3	phenotype	phenotype only	Approved	5p15.33-p13.1	05p15.33-p13.1							2003-01-10			2011-02-11	317668													608850																	
+HGNC:32303	MCDR4	macular dystrophy, retinal, 4 (North Carolina type with progressive sensorineural hearing loss)	phenotype	phenotype only	Approved	14q11.2	14q11.2							2005-09-26			2005-09-26	619370								12812894																						
+HGNC:49649	MCDR5	macular dystrophy 5	phenotype	phenotype only	Approved	19q13.31-q13.32	19q13.31-q13.32							2014-01-28			2014-01-28	106660618								17142619																						
+HGNC:6942	MCKD2	medullary cystic kidney disease 2 (autosomal dominant)	phenotype	phenotype only	Approved	16p12	16p12	ADMCKD2						1999-06-02			2011-02-11									10330352																						
+HGNC:6961	MCS	Miles-Carpenter X-linked mental retardation syndrome	phenotype	phenotype only	Approved	Xq13-q22	Xq13-q22			MRXS4		X-linked mental retardation	103	1991-09-10			1993-01-19	4183								"2018061|1605216"																						
+HGNC:6978	MDRV	muscular dystrophy, with rimmed vacuoles	phenotype	phenotype only	Approved	19p13.3	19p13.3							1997-07-11			1998-05-11	4195													601846																	
+HGNC:6999	MEHMO	mental retardation, epileptic seizures, hypogonadism and -genitalism, microcephaly and obesity syndrome	phenotype	phenotype only	Approved	Xp22.13-p21.1	Xp22.13-p21.1							1998-10-23			1998-10-23	8422								9781023																						
+HGNC:7008	MELAS	mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes	phenotype	phenotype only	Approved	mitochondria	mitochondria							1991-11-14			2014-01-31																															
+HGNC:7065	MHAC	microhydranencephaly	phenotype	phenotype only	Approved	16p13.13-p12.3	16p13.13-p12.3							2000-05-02			2006-05-02	53341								10762554																						
+HGNC:7071	MHS2	malignant hyperthermia susceptibility 2	phenotype	phenotype only	Approved	17q11.2-q24	17q11.2-q24							1992-06-10			1992-11-27	4264								1427885					154275																	
+HGNC:7073	MHS4	malignant hyperthermia susceptibility 4	phenotype	phenotype only	Approved	3q13.1	03q13.1							1995-05-19				4265								7887423					600467																	
+HGNC:7075	MHS6	malignant hyperthermia susceptibility 6	phenotype	phenotype only	Approved	5p	05p							1997-07-11			1997-07-11	4266								9175745					601888																	
+HGNC:19144	MMVP1	myxomatous mitral valve prolapse 1	phenotype	phenotype only	Approved	16p12.1-p11.2	16p12.1-p11.2							2003-04-23			2007-05-01	50951								10521289					157700																	
+HGNC:19145	MMVP2	myxomatous mitral valve prolapse 2	phenotype	phenotype only	Approved	11p15.4	11p15.4							2003-04-23			2003-04-23	352956								12707861																						
+HGNC:7209	MPE	malignant proliferation, eosinophil	phenotype	phenotype only	Approved	12p13	12p13							1989-03-15			2014-01-31																															
+HGNC:7210	MPFD	myopathy with fiber type disproportion	phenotype	phenotype only	Approved	10p11.2 or 17q25	10p11.2 or 17q25	"CFTD|CFTDM"						1995-01-27			2014-11-19									7908614																						
+HGNC:14595	MROS	Melkersson-Rosenthal syndrome	phenotype	phenotype only	Approved	9p11	09p11	MRS						2001-02-09			2001-02-09	8011								7923865					155900																	
+HGNC:7236	MRSD	mental retardation-skeletal dysplasia	phenotype	phenotype only	Approved	Xq27-q28	Xq27-q28							2001-06-22			2012-10-02	4364													309620																	
+HGNC:33243	MRT4	mental retardation, non-syndromic, autosomal recessive, 4	phenotype	phenotype only	Approved	1p21.3-p13.3	01p21.3-p13.3							2007-02-08			2014-01-31	100009675								17309643					611107																	
+HGNC:39147	MRT8	mental retardation, non-syndromic, autosomal recessive, 8	phenotype	phenotype only	Approved	10q22	10q22							2010-10-22			2011-02-11	100101423								17120046																						
+HGNC:39148	MRT9	mental retardation, non-syndromic, autosomal recessive, 9	phenotype	phenotype only	Approved	14q11.2-q12	14q11.2-q12							2010-10-22			2011-02-11	100101424								17120046					611095																	
+HGNC:39149	MRT10	mental retardation, non-syndromic, autosomal recessive, 10	phenotype	phenotype only	Approved	16p12-q12	16p12-q12							2010-10-22			2011-02-11	100101425								17120046					611096																	
+HGNC:39150	MRT11	mental retardation, non-syndromic, autosomal recessive, 11	phenotype	phenotype only	Approved	19q13.2-q13.3	19q13.2-q13.3							2010-10-22			2011-02-11	100101426								17120046					611097																	
+HGNC:39145	MRT17	mental retardation, non-syndromic, autosomal recessive, 17	phenotype	phenotype only	Approved	4q26-q28	04q26-q28							2010-11-23			2014-01-31	100689013								21629298																						
+HGNC:39152	MRT18	mental retardation, non-syndromic, autosomal recessive, 18	phenotype	phenotype only	Approved	6q12-q15	06q12-q15							2010-11-23			2014-01-31	109729096								21629298																						
+HGNC:39153	MRT19	mental retardation, non-syndromic, autosomal recessive, 19	phenotype	phenotype only	Approved	18p11	18p11							2010-11-23			2013-01-29	100852395								21629298					614343																	
+HGNC:39154	MRT20	mental retardation, non-syndromic, autosomal recessive, 20	phenotype	phenotype only	Approved	16p12-q12	16p12-q12							2010-11-23			2013-01-29	109729109								21629298																						
+HGNC:39156	MRT22	mental retardation, non-syndromic, autosomal recessive, 22	phenotype	phenotype only	Approved	8p22	08p22							2010-11-23			2013-01-29	109729110								21629298																						
+HGNC:39157	MRT23	mental retardation, non-syndromic, autosomal recessive, 23	phenotype	phenotype only	Approved	11p13-q14	11p13-q14							2010-11-23			2013-01-29	100852398								21629298					614344																	
+HGNC:39158	MRT24	mental retardation, non-syndromic, autosomal recessive, 24	phenotype	phenotype only	Approved	6p12	06p12							2010-11-23			2013-01-29	100852402								21629298					614345																	
+HGNC:39159	MRT25	mental retardation, non-syndromic, autosomal recessive, 25	phenotype	phenotype only	Approved	12q13-q15	12q13-q15							2010-11-23			2013-01-29	100852403								21629298					614346																	
+HGNC:39160	MRT26	mental retardation, non-syndromic, autosomal recessive, 26	phenotype	phenotype only	Approved	14q11-q12	14q11-q12							2010-11-23			2013-01-29	109729097								21629298																						
+HGNC:39161	MRT27	mental retardation, non-syndromic, autosomal recessive, 27	phenotype	phenotype only	Approved	15q23-q26	15q23-q26							2010-11-23			2015-09-28	100852397								21629298																						
+HGNC:39162	MRT28	mental retardation, non-syndromic, autosomal recessive, 28	phenotype	phenotype only	Approved	6q26-q27	06q26-q27							2010-11-23			2013-01-29	100852396								21629298					614347																	
+HGNC:7271	MRX4	mental retardation, X-linked 4	phenotype	phenotype only	Approved	Xp11.22-q21.3	Xp11.22-q21.3					X-linked mental retardation	103	1991-09-10			2007-07-31	4366								"3177465|1605216"																						
+HGNC:7282	MRX5	mental retardation, X-linked 5	phenotype	phenotype only	Approved	Xp11.4-q21.2	Xp11.4-q21.2					X-linked mental retardation	103	1991-09-10			2007-07-31	4369								"1673297|1605216"																						
+HGNC:7293	MRX6	mental retardation, X-linked 6 (Okinawa type)	phenotype	phenotype only	Approved	Xq27	Xq27					X-linked mental retardation	103	1991-08-08			2007-07-31	4370								1605216																						
+HGNC:7304	MRX7	mental retardation, X-linked 7	phenotype	phenotype only	Approved	Xp11.23-q12	Xp11.23-q12					X-linked mental retardation	103	1991-09-10			2007-07-31	4371								1605216																						
+HGNC:7311	MRX8	mental retardation, X-linked 8	phenotype	phenotype only	Approved	Xq21	Xq21					X-linked mental retardation	103	1991-09-10			2007-07-31	4372								1605227																						
+HGNC:7240	MRX11	mental retardation, X-linked 11	phenotype	phenotype only	Approved	Xp21.3-p11.22	Xp21.3-p11.22					X-linked mental retardation	103	1991-11-01			2014-01-31	4375								1605216																						
+HGNC:7243	MRX14	mental retardation, X-linked 14	phenotype	phenotype only	Approved	Xp11.3-q13.2	Xp11.3-q13.2					X-linked mental retardation	103	1993-05-12			2014-01-31	4378								"8026106|17221867"					300062																	
+HGNC:7244	MRX15	mental retardation, X-linked 15	phenotype	phenotype only	Approved	Xp21.1-p11.22	Xp21.1-p11.22					X-linked mental retardation	103	1993-07-06			1997-10-08	4379								8826458																						
+HGNC:7246	MRX17	mental retardation, X-linked 17	phenotype	phenotype only	Approved	Xp11.22	Xp11.22					X-linked mental retardation	103	1993-07-12			2014-01-31	4381								"7943039|18252223"																						
+HGNC:7250	MRX20	mental retardation, X-linked 20	phenotype	phenotype only	Approved	Xp11-q21	Xp11-q21					X-linked mental retardation	103	1993-09-17			1999-07-06	4384								7573127					300047																	
+HGNC:7253	MRX23	mental retardation, X-linked 23	phenotype	phenotype only	Approved	Xq23-q24	Xq23-q24					X-linked mental retardation	103	1994-03-18			1996-03-19	4387								8852668					300046																	
+HGNC:7254	MRX24	mental retardation, X-linked 24	phenotype	phenotype only	Approved	Xp22.3-p22.2	Xp22.3-p22.2					X-linked mental retardation	103	1994-03-22			1997-10-27	4388								7726242																						
+HGNC:7255	MRX25	mental retardation, X-linked 25	phenotype	phenotype only	Approved	Xq28	Xq28					X-linked mental retardation	103	1994-03-28				4389								1362558																						
+HGNC:7256	MRX26	mental retardation, X-linked 26	phenotype	phenotype only	Approved	Xp11.3-q21.33	Xp11.3-q21.33					X-linked mental retardation	103	1994-05-30			2014-01-31	4390								"8826459|17221867"																						
+HGNC:7257	MRX27	mental retardation, X-linked 27	phenotype	phenotype only	Approved	Xq24-q26	Xq24-q26					X-linked mental retardation	103	1994-06-01			2011-02-11	4391								8826461																						
+HGNC:7258	MRX28	mental retardation, X-linked 28	phenotype	phenotype only	Approved	Xq28	Xq28					X-linked mental retardation	103	1994-07-21			1997-07-01	4392								8826462																						
+HGNC:7262	MRX31	mental retardation, X-linked 31	phenotype	phenotype only	Approved	Xp11.22	Xp11.22					X-linked mental retardation	103	1995-04-24			2014-01-31	4395								"8826460|18252223"																						
+HGNC:7268	MRX37	mental retardation, X-linked 37	phenotype	phenotype only	Approved	Xp22.32-p22.31	Xp22.32-p22.31					X-linked mental retardation	103	1995-09-01			2008-05-14	4402								8826456																						
+HGNC:7270	MRX39	mental retardation, X-linked 39	phenotype	phenotype only	Approved	X	X					X-linked mental retardation	103	1995-12-12			2011-02-11	4404																														
+HGNC:7272	MRX40	mental retardation, X-linked 40	phenotype	phenotype only	Approved	Xq21.1	Xq21.1					X-linked mental retardation	103	1995-12-18				4405								7581391																						
+HGNC:7274	MRX42	mental retardation, X-linked 42	phenotype	phenotype only	Approved	X	X					X-linked mental retardation	103	1996-03-12			2011-02-11	4406								11807862					300372																	
+HGNC:7281	MRX49	mental retardation, X-linked 49	phenotype	phenotype only	Approved	Xp22.3-p22.2	Xp22.3-p22.2					X-linked mental retardation	103	1996-10-26			2011-02-11	4412								9415477																						
+HGNC:7283	MRX50	mental retardation, X-linked 50	phenotype	phenotype only	Approved	Xp11.3-p11.21	Xp11.3-p11.21					X-linked mental retardation	103	1996-11-13			2011-02-11	4413								9415477					300115																	
+HGNC:7284	MRX51	mental retardation, X-linked 51	phenotype	phenotype only	Approved	Xp11.3-p11.23	Xp11.3-p11.23					X-linked mental retardation	103	1997-03-19			1999-11-17	4414								10398244																						
+HGNC:7286	MRX53	mental retardation, X-linked 53	phenotype	phenotype only	Approved	Xq22.2-q24	Xq22.2-q24					X-linked mental retardation	103	1997-06-18			2011-02-11	4416								11337751					300324																	
+HGNC:7289	MRX56	mental retardation, X-linked 56	phenotype	phenotype only	Approved	X	X					X-linked mental retardation	103	1997-10-08			2011-02-11	4419																														
+HGNC:7290	MRX57	mental retardation, X-linked 57	phenotype	phenotype only	Approved	X	X					X-linked mental retardation	103	1997-10-08			2011-02-11	4420																														
+HGNC:7295	MRX61	mental retardation, X-linked 61	phenotype	phenotype only	Approved	Xq13.1-q25	Xq13.1-q25					X-linked mental retardation	103	1997-10-16			2014-01-31	4424								17221867																						
+HGNC:7298	MRX64	mental retardation, X-linked 64	phenotype	phenotype only	Approved	Xq28	Xq28					X-linked mental retardation	103	1998-01-30			1998-01-30	4427								9222958																						
+HGNC:7299	MRX65	mental retardation, X-linked 65	phenotype	phenotype only	Approved	Xp11.23-q21.32	Xp11.23-q21.32					X-linked mental retardation	103	1998-03-24			2014-01-31	4428								"10398247|17221867"																						
+HGNC:7300	MRX66	mental retardation, X-linked 66	phenotype	phenotype only	Approved	Xq21.33-q23	Xq21.33-q23					X-linked mental retardation	103	1998-11-26			2014-01-31	23700								17221867																						
+HGNC:7301	MRX67	mental retardation, X-linked 67	phenotype	phenotype only	Approved	Xq13.1-q21.31	Xq13.1-q21.31					X-linked mental retardation	103	1998-11-26			2014-01-31	23699								17221867																						
+HGNC:7303	MRX69	mental retardation, X-linked 69	phenotype	phenotype only	Approved	Xp11.21-q22.1	Xp11.21-q22.1					X-linked mental retardation	103	1999-06-10			2014-01-31	23697								17221867																						
+HGNC:7305	MRX70	mental retardation, X-linked 70	phenotype	phenotype only	Approved	Xq23-q25	Xq23-q25					X-linked mental retardation	103	1999-06-10			2014-01-31	23696								17221867																						
+HGNC:13367	MRX71	mental retardation, X-linked 71	phenotype	phenotype only	Approved	Xq24-q27	Xq24-q27					X-linked mental retardation	103	2006-09-21			2014-01-31	767575								17221867																						
+HGNC:7307	MRX73	mental retardation, X-linked 73	phenotype	phenotype only	Approved	Xp22.2	Xp22.2					X-linked mental retardation	103	1999-07-09			2001-09-13	23694								11477616					300355																	
+HGNC:7309	MRX75	mental retardation, X-linked 75	phenotype	phenotype only	Approved	Xq24-q26	Xq24-q26					X-linked mental retardation	103	2000-08-31			2000-08-31	89760								10946355																						
+HGNC:15824	MRX77	mental retardation, X-linked 77	phenotype	phenotype only	Approved	Xq12-q21.33	Xq12-q21.33					X-linked mental retardation	103	2001-06-13			2008-05-14	93991								12949971					300454																	
+HGNC:18872	MRX80	mental retardation, X-linked 80	phenotype	phenotype only	Approved	Xq22-q24	Xq22-q24					X-linked mental retardation	103	2003-09-22			2003-09-22	378483								12949969																						
+HGNC:19301	MRX81	mental retardation, X-linked 81	phenotype	phenotype only	Approved	Xp11.2-q12	Xp11.2-q12					X-linked mental retardation	103	2002-09-30			2011-02-11	266678								12673650					300433																	
+HGNC:21626	MRX82	mental retardation, X-linked 82	phenotype	phenotype only	Approved	Xq24-q25	Xq24-q25					X-linked mental retardation	103	2003-09-23			2011-02-11	378484								15526294					300518																	
+HGNC:20228	MRX84	mental retardation, X-linked 84	phenotype	phenotype only	Approved	Xp11.3-q22.3	Xp11.3-q22.3					X-linked mental retardation	103	2003-10-03			2011-02-08	378882								15326629					300505																	
+HGNC:25212	MRX86	mental retardation, X-linked 86	phenotype	phenotype only	Approved	Xp11.3-q13.1	Xp11.3-q13.1					X-linked mental retardation	103	2005-02-16			2011-02-18	503496																														
+HGNC:7313	MRXS7	mental retardation, X-linked, syndromic 7	phenotype	phenotype only	Approved	Xp11.3-q22.1	Xp11.3-q22.1					X-linked mental retardation	103	1997-06-18			2014-01-31	4429								10573017					300218																	
+HGNC:13865	MRXS11	mental retardation, X-linked, syndromic 11	phenotype	phenotype only	Approved	Xq26-q27	Xq26-q27	SMRXS				X-linked mental retardation	103	2001-11-13			2001-11-13	50644								10677307																						
+HGNC:7314	MS	multiple sclerosis	phenotype	phenotype only	Approved	reserved	reserved	MS1						1993-10-15			1998-08-20	4397								1383661																						
+HGNC:7322	MSD	microcephaly with spastic diplegia (Paine syndrome)	phenotype	phenotype only	Approved	X	X							2001-06-22			2014-01-30	4434								4274173					311400																	
+HGNC:16401	MYMY1	moyamoya disease 1	phenotype	phenotype only	Approved	3p26-p24.2	03p26-p24.2			MYMY	Moyamoya disease 1			2001-08-14	2003-05-16	2004-11-22	2004-11-22	50960								9973290					252350																	
+HGNC:20769	MYMY3	moyamoya disease 3	phenotype	phenotype only	Approved	8q23	08q23							2004-11-22			2014-01-30	493818								15362573					608796																	
+HGNC:7615	MYP1	myopia 1 (X-linked)	phenotype	phenotype only	Approved	Xq28	Xq28		Bornholm eye disease		myopia 1 (X-linked, Bornholm eye disease included)			1991-07-03		2009-01-12	2009-01-12	4657								15197065					310460																	
+HGNC:7616	MYP2	myopia 2 (high grade, autosomal dominant)	phenotype	phenotype only	Approved	18p11.31	18p11.31		pathologic myopia					1998-08-11			2006-03-13	4658								"9634508|15723005"					160700																	
+HGNC:7617	MYP3	myopia 3 (high grade, autosomal dominant)	phenotype	phenotype only	Approved	12q21-q23	12q21-q23							1998-12-15			2009-01-12	8782								"9792869|15592176|18360688"					603221																	
+HGNC:32549	MYP4	myopia 4 (high grade, autosomal dominant)	phenotype	phenotype only	Approved	7q36	07q36							2009-01-12			2009-01-12	393093								11836361																						
+HGNC:35433	MYP5	myopia 5 (high grade, autosomal dominant)	phenotype	phenotype only	Approved	17q21-q22	17q21-q22							2009-01-12			2011-02-11	404682								12714612					608474																	
+HGNC:35435	MYP7	myopia 7	phenotype	phenotype only	Approved	11p13	11p13							2009-01-12			2011-02-11	553190								15307048					609256																	
+HGNC:35436	MYP8	myopia 8	phenotype	phenotype only	Approved	3q26	03q26							2009-01-12			2011-02-11	553192								15307048					609257																	
+HGNC:35437	MYP9	myopia 9	phenotype	phenotype only	Approved	4q12	04q12							2009-01-12			2011-02-11	553194								15307048					609258																	
+HGNC:35438	MYP10	myopia 10	phenotype	phenotype only	Approved	8p23	08p23							2009-01-12			2011-02-11	553195								15307048					609259																	
+HGNC:24906	MYP11	myopia 11 (high grade, autosomal dominant)	phenotype	phenotype only	Approved	4q22-q27	04q22-q27							2005-07-25			2014-01-30	594832								16052171					609994																	
+HGNC:32551	MYP12	myopia 12 (high grade, autosomal dominant)	phenotype	phenotype only	Approved	2q37.1	02q37.1							2006-03-23		2006-03-23	2009-01-12	664780								"15980214|17898262"					609995																	
+HGNC:32582	MYP13	myopia 13	phenotype	phenotype only	Approved	Xq23-q25	Xq23-q25							2006-03-27			2014-01-30	677764								"16648373|17351708"					300613																	
+HGNC:35439	MYP14	myopia 14	phenotype	phenotype only	Approved	1p36	01p36				MYP14			2009-01-12		2009-03-17	2009-03-17	100359407								16501916					610320																	
+HGNC:35440	MYP15	myopia 15	phenotype	phenotype only	Approved	10q21.1	10q21.1							2009-01-12			2014-01-30	100294716								17962440					612717																	
+HGNC:35441	MYP16	myopia 16	phenotype	phenotype only	Approved	5p15.33-p15.2	05p15.33-p15.2							2009-01-12			2014-01-30	100270641								18421076					612554																	
+HGNC:37047	MYP17	myopia 17	phenotype	phenotype only	Approved	7p15	07p15							2009-03-18			2014-01-30	100359401								"18293391|19122830"					608367																	
+HGNC:37048	MYP18	myopia 18 (high grade, autosomal recessive)	phenotype	phenotype only	Approved	14q22.1-q24.2	14q22.1-q24.2							2009-03-18			2014-01-30	100359406								19204786					255500																	
+HGNC:7822	NIDDM1	non insulin dependent diabetes mellitus 1	phenotype	phenotype only	Approved	2q	02q		type 2 diabetes 1		non-insulin-dependent diabetes mellitus (common, type 2) 1			1996-05-16		2016-06-08	2016-06-08	4812								8640221																						
+HGNC:7823	NIDDM2	non insulin dependent diabetes mellitus 2	phenotype	phenotype only	Approved	12q24.2	12q24.2		type 2 diabetes 2		non-insulin-dependent diabetes mellitus (common, type 2) 2			1996-07-11		2016-06-08	2016-06-08	4813								8782826					601407																	
+HGNC:7832	NKS1	natural killer cell susceptibility 1	phenotype	phenotype only	Approved	6p21.3	06p21.3	EC-1						1991-08-30			1998-08-21	4819								1979875					272370																	
+HGNC:7841	NM	neutrophil migration	phenotype	phenotype only	Approved	7q22-qter	07q22-qter							2001-06-22			2012-10-02	4827													162820																	
+HGNC:7862	NNO1	nanophthalmos 1	phenotype	phenotype only	Approved	11p13	11p13							1998-11-06			2003-07-30	23691								9792868					600165																	
+HGNC:8080	NYS2	nystagmus 2, congenital autosomal dominant	phenotype	phenotype only	Approved	6p12	06p12	NYSA						1998-06-16			1998-06-16	4933								"8414024|5504065"					164100																	
+HGNC:8081	NYS3	nystagmus 3, congenital autosomal dominant	phenotype	phenotype only	Approved	7p11	07p11	CN						1998-06-16			2011-02-10	4934								9806847					608345																	
+HGNC:19188	NYS4	nystagmus 4, congenital autosomal dominant	phenotype	phenotype only	Approved	13q31-q33	13q31-q33							2003-01-14			2011-02-10	317685													193003																	
+HGNC:8084	OA3	ocular albinism 3 (autosomal recessive)	phenotype	phenotype only	Approved	6q13-q15	06q13-q15							1993-01-28			2011-02-10	4936								1632442																						
+HGNC:8085	OAP	osteoarthrosis, precocious	phenotype	phenotype only	Approved	11q	11q							1987-09-11			2014-01-30	4937																														
+HGNC:8089	OASD	ocular albinism and sensorineural deafness	phenotype	phenotype only	Approved	Xp22.3-p22.2	Xp22.3-p22.2							1993-05-14			2008-05-14	4941													300650																	
+HGNC:44139	OCA5	oculocutaneous albinism 5 (autosomal recessive)	phenotype	phenotype only	Approved	4q24	04q24							2013-08-22			2013-08-22	101926885								23050561					615312																	
+HGNC:8118	OED	Oregon eye disease	phenotype	phenotype only	Approved	Xp21.3	Xp21.3							1991-08-21			2014-01-30	4961								8240114																						
+HGNC:8120	OFC1	orofacial cleft 1	phenotype	phenotype only	Approved	6p24	06p24			OFC				2001-06-22			2012-10-02	4963													119530																	
+HGNC:8121	OFC2	orofacial cleft 2	phenotype	phenotype only	Approved	2p14-p13	02p14-p13							1991-05-15			2008-05-15	4964								9676424					602966																	
+HGNC:8122	OFC3	orofacial cleft 3	phenotype	phenotype only	Approved	19q13	19q13							1991-08-08			2008-07-17	4965								7668251					600757																	
+HGNC:8141	OPA2	optic atrophy 2 (obscure)	phenotype	phenotype only	Approved	Xp11.4-p11.2	Xp11.4-p11.2							1990-09-10			2008-05-22	4977								9382106					311050					310868												
+HGNC:32786	OPA4	optic atrophy 4 (autosomal dominant)	phenotype	phenotype only	Approved	18q12.2	18q12.2							2006-05-10			2006-05-10	58156								10369594					605293																	
+HGNC:32787	OPA5	optic atrophy 5 (autosomal dominant)	phenotype	phenotype only	Approved	22q12.1-q13.1	22q12.1-q13.1							2006-05-10			2011-02-10	692222								15635063																						
+HGNC:33170	OPA6	optic atrophy 6 (autosomal recessive)	phenotype	phenotype only	Approved	8q21.13-q22.1	08q21.13-q22.1	ROA1	recessive optic atrophy 1					2006-11-10			2007-06-25	777778								14508503					258500																	
+HGNC:39750	OPA8	optic atrophy 8 (autosomal dominant)	phenotype	phenotype only	Approved	16q22	16q22							2011-03-25			2011-03-25	106783499								21349918					616648																	
+HGNC:8146	OPEM	ophthalmoplegia, external, with myopia	phenotype	phenotype only	Approved	X	X							2001-06-22			2012-10-02	4981													311000																	
+HGNC:8519	OTSC1	otosclerosis 1	phenotype	phenotype only	Approved	15q25-q26	15q25-q26	OTS						1998-08-11			1998-08-11	5012								9425236					166800																	
+HGNC:8520	OTSC2	otosclerosis 2	phenotype	phenotype only	Approved	7q34-q36	07q34-q36							2000-06-29			2014-01-30	93999								"11170898|20182450"					605727																	
+HGNC:17831	OTSC3	otosclerosis 3	phenotype	phenotype only	Approved	6p22.3-p21.2	06p22.3-p21.2							2002-01-23			2008-05-15	170532								12114476					608244																	
+HGNC:19981	OTSC4	otosclerosis 4	phenotype	phenotype only	Approved	16q21-q23.2	16q21-q23.2							2002-12-18			2008-05-14	286751								16618911					611571																	
+HGNC:20238	OTSC5	otosclerosis 5	phenotype	phenotype only	Approved	3q22.1-q24	03q22.1-q24							2003-01-13			2004-09-17	317682								15173231					608787																	
+HGNC:20375	OTSC6	otosclerosis 6	phenotype	phenotype only	Approved	reserved	reserved							2003-01-30			2014-01-30	319090																														
+HGNC:31084	OTSC7	otosclerosis 7	phenotype	phenotype only	Approved	6q13-q16.1	06q13-q16.1							2004-01-29			2007-01-19	399516								17213839					611572																	
+HGNC:32939	OTSC8	otosclerosis 8	phenotype	phenotype only	Approved	9p13.1-q21.11	09p13.1-q21.11							2008-03-11			2011-02-10	100151644								18224337					612096																	
+HGNC:35457	OTSC9	otosclerosis 9	phenotype	phenotype only	Approved	reserved	reserved							2009-02-10			2014-01-30	109729089																														
+HGNC:38512	OTSC10	otosclerosis 10	phenotype	phenotype only	Approved	1q41-q44	01q41-q44							2010-05-27			2012-03-30	102723100								21470211					615589																	
+HGNC:8608	PARK3	Parkinson disease 3 (autosomal dominant, Lewy body)	phenotype	phenotype only	Approved	2p13	02p13					Parkinson disease associated genes	672	1998-05-05		2011-07-21	2011-07-21	5072								9500549					602404																	
+HGNC:17833	PARK10	Parkinson disease 10 (susceptibility)	phenotype	phenotype only	Approved	1p32	01p32	AAOPD			Parkinson disease 10	Parkinson disease associated genes	672	2001-12-18		2011-07-21	2011-07-21	170534								"12402251|18854859"					606852																	
+HGNC:17963	PARK11	Parkinson disease 11 (autosomal recessive, early onset)	phenotype	phenotype only	Approved	2q36-q37	02q36-q37					Parkinson disease associated genes	672	2004-07-21	2008-08-11	2011-07-21	2011-07-21	352908								"12638082|19279319"																						
+HGNC:34510	PARK12	Parkinson disease 12 (susceptibility)	phenotype	phenotype only	Approved	Xq21-q25	Xq21-q25				Parkinson disease (X-linked) 12	Parkinson disease associated genes	672	2008-08-11		2011-07-21	2011-07-21	677662								12925570					300557																	
+HGNC:37450	PARK16	Parkinson disease 16 (susceptibility)	phenotype	phenotype only	Approved	1q32	01q32					Parkinson disease associated genes	672	2010-02-09		2011-07-21	2011-07-21	100359403								"19915576|19915575"					613164																	
+HGNC:8625	PBCRA1	progressive bifocal chorioretinal atrophy 1	phenotype	phenotype only	Approved	6q	06q	"CRAPB|PBCRA"						1999-08-20			2003-07-25	7948								"9719369|9691169"					600790																	
+HGNC:8645	PCAP	predisposing for prostate cancer	phenotype	phenotype only	Approved	1q42.2-q43	01q42.2-q43	"HPC2|HPC8"						1998-10-12			2011-02-10	7834								9585607					602759																	
+HGNC:8741	PCOS1	polycystic ovary syndrome 1	phenotype	phenotype only	Approved	19p13.2	19p13.2							1996-07-19			2014-01-30	5120								16091490					184700																	
+HGNC:8757	PDB1	Paget disease of bone 1	phenotype	phenotype only	Approved	6p21.3	06p21.3			PDB				1993-01-19			2008-07-03	5131																														
+HGNC:16033	PDB4	Paget disease of bone 4	phenotype	phenotype only	Approved	5q31	05q31							2001-07-03			2011-02-10	94003								11473345					606263																	
+HGNC:17951	PDB5	Paget disease of bone 5	phenotype	phenotype only	Approved	2q36	02q36							2002-01-09			2014-01-30	140777								11555792																						
+HGNC:17952	PDB6	Paget disease of bone 6	phenotype	phenotype only	Approved	10p13	10p13							2002-01-09			2014-01-30	140778								11555792																						
+HGNC:8817	PDR	pigment disorder, reticulate	phenotype	phenotype only	Approved	Xp22-p21	Xp22-p21							1993-07-22			2014-01-30	5171								7977467																						
+HGNC:8825	PEE1	preeclampsia/eclampsia 1	phenotype	phenotype only	Approved	4q25-qter	04q25-qter			PIH	pregnancy-induced hypertension (pre-eclampsia, eclampsia, toxemia of pregnancy included)			1997-09-12			2014-01-30	5177								9150163					189800																	
+HGNC:20094	PFM3	parietal foramina 3	phenotype	phenotype only	Approved	4q21-q23	04q21-q23							2007-07-31			2011-02-10	619475								12905082					609566																	
+HGNC:9013	PKD3	polycystic kidney disease 3 (autosomal dominant)	phenotype	phenotype only	Approved	2p	02p							1991-08-13			1998-06-11	5312								1974020																						
+HGNC:15733	PPH2	primary pulmonary hypertension 2	phenotype	phenotype only	Approved	2q31-q32	02q31-q32							2001-05-22			2007-03-12	89873								"12821254|15295086"																						
+HGNC:9345	PRD	primary retinal dysplasia	phenotype	phenotype only	Approved	Xp11.3	Xp11.3							1994-07-20			2011-02-24	5548								8401512					312550																	
+HGNC:9471	PRS	Prieto X-linked mental retardation syndrome	phenotype	phenotype only	Approved	Xp21-p11	Xp21-p11			MRXS2		X-linked mental retardation	103	1991-09-10			1993-01-19	5640								"1673297|1605216"					309610																	
+HGNC:9575	PSORS3	psoriasis susceptibility 3	phenotype	phenotype only	Approved	4q	04q							1998-10-23			1998-10-23	7889								8841203					601454																	
+HGNC:17275	PSORS4	psoriasis susceptibility 4	phenotype	phenotype only	Approved	1q21	01q21							2001-11-28			2014-01-30	10547								"9886260|11348461"					603935																	
+HGNC:17953	PSORS5	psoriasis susceptibility 5	phenotype	phenotype only	Approved	3q21	03q21							2002-01-08			2014-01-30	63870								"10573011|11863360|21412248"					604316																	
+HGNC:33483	PSORS6	psoriasis susceptibility 6	phenotype	phenotype only	Approved	19p13	19p13							2007-05-31			2014-01-30	63869								"10986047|16163348|19525279"					605364																	
+HGNC:14207	PSORS7	psoriasis susceptibility 7	phenotype	phenotype only	Approved	1p	01p							2001-01-12			2011-02-10	65245								11134234					605606																	
+HGNC:17322	PSORS8	psoriasis susceptibility 8	phenotype	phenotype only	Approved	16q	16q							2001-12-04			2011-02-10	140454								9259283					610707																	
+HGNC:31013	PSORS9	psoriasis susceptibility 9	phenotype	phenotype only	Approved	4q31-q34	04q31-q34							2004-01-12			2011-02-10	359825								12485440					607857																	
+HGNC:31919	PSORS10	psoriasis susceptibility 10	phenotype	phenotype only	Approved	18p11.23	18p11.23							2005-02-22			2011-02-10	503613								14632189					612410																	
+HGNC:9622	PTLAH	patella aplasia-hypoplasia	phenotype	phenotype only	Approved	17q21-q22	17q21-q22	FPAH						1998-12-23			1999-08-11	8830								10417287					168860																	
+HGNC:9631	PTOS1	ptosis, congenital 1 (autosomal dominant)	phenotype	phenotype only	Approved	1p34.1-p32	01p34.1-p32							1997-07-01			1997-07-01	5765								9150162					178300																	
+HGNC:9929	RCA1	renal carcinoma associated 1	phenotype	phenotype only	Approved	3p14.2	03p14.2	HRCA1			renal carcinoma, familial, associated 1			1993-12-14		2012-03-02	2012-03-02									7690964																						
+HGNC:9930	RCD1	retinal cone dystrophy 1	phenotype	phenotype only	Approved	6q25-q26	06q25-q26							1994-04-27			1999-11-22	5953													180020																	
+HGNC:9961	RENS2	Renpenning syndrome 2	phenotype	phenotype only	Approved	Xq12-q21.31	Xq12-q21.31	MRXS9	Renpenning-like syndrome			X-linked mental retardation	103	1998-01-21		2014-03-07	2014-03-07	5975																														
+HGNC:10015	RIEG2	Rieger syndrome 2	phenotype	phenotype only	Approved	13q14	13q14	ARS						1996-12-12			1998-08-18	6012													601499																	
+HGNC:10030	RMD1	rippling muscle disease 1	phenotype	phenotype only	Approved	1q41	01q41							1995-01-27			2003-09-09	6022								7936247					600332																	
+HGNC:10286	RP6	retinitis pigmentosa 6 (X-linked recessive)	phenotype	phenotype only	Approved	Xp21.3-p21.2	Xp21.3-p21.2							1990-09-10			2009-09-02	6104													312612																	
+HGNC:10276	RP22	retinitis pigmentosa 22 (autosomal recessive)	phenotype	phenotype only	Approved	16p12.3-p12.1	16p12.3-p12.1							1997-11-05			2008-05-14	6114								9545639					602594																	
+HGNC:10278	RP24	retinitis pigmentosa 24 (X-linked recessive)	phenotype	phenotype only	Approved	Xq26-q27	Xq26-q27							1998-07-15			1999-06-02	6116								9792872					300155																	
+HGNC:10282	RP29	retinitis pigmentosa 29 (autosomal recessive)	phenotype	phenotype only	Approved	4q32-q34	04q32-q34							2000-06-05			2011-02-10	54110													612165																	
+HGNC:21902	RP32	retinitis pigmentosa 32 (autosomal recessive)	phenotype	phenotype only	Approved	1p21.2-p13.3	01p21.2-p13.3							2005-11-09			2011-02-10	641433								16189710					609913																	
+HGNC:33161	RP34	retinitis pigmentosa 34 (X-linked recessive)	phenotype	phenotype only	Approved	Xq28	Xq28							2006-10-31			2011-02-10	777642								16740911					300605																	
+HGNC:37092	RP35	retinitis pigmentosa 35 (autosomal dominant)	phenotype	phenotype only	Approved	reserved	reserved							2009-06-02			2009-09-02	109729091																														
+HGNC:38112	RP52	retinitis pigmentosa 52 (autosomal dominant)	phenotype	phenotype only	Approved	2q24.1-q31.1	02q24.1-q31.1							2010-05-07			2010-05-07	109729108																														
+HGNC:49652	RP63	retinitis pigmentosa 63 (autosomal dominant)	phenotype	phenotype only	Approved	6q23	06q23							2014-01-28			2014-01-28	100862681								22083234					614494																	
+HGNC:10462	RSS	Russell Silver syndrome	phenotype	phenotype only	Approved	17q25	17q25	SRS	Silver-Russell syndrome					1995-01-26			2011-02-24	140821								"1633648|8403458|9733042|11161811"																						
+HGNC:10523	SAI1	suppression of anchorage independence 1	phenotype	phenotype only	Approved	1p	01p							1992-02-14			2006-04-04	6298								"3155863|2777918"					154280																	
+HGNC:16474	SAX1	spastic ataxia 1 (autosomal dominant)	phenotype	phenotype only	Approved	12p13	12p13	SPAX1						2001-09-13		2006-10-18	2011-02-10	114610																														
+HGNC:13440	SCA9	spinocerebellar ataxia 9	phenotype	phenotype only	Approved	reserved	reserved							2001-12-04			2011-02-10	140451								9159738					612876																	
+HGNC:15744	SCA18	spinocerebellar ataxia 18 (sensory with neurogenic muscular atrophy)	phenotype	phenotype only	Approved	7q22-q32	07q22-q32	SMNA						2001-05-30			2011-02-10	94008								11992570					607458																	
+HGNC:17204	SCA20	spinocerebellar ataxia 20	phenotype	phenotype only	Approved	11q12	11q12							2004-05-04			2015-04-29	407973								"14998916|17159129|18801880"										212610												
+HGNC:20684	SCA25	spinocerebellar ataxia 25	phenotype	phenotype only	Approved	2p21-p15	02p21-p15							2003-03-18			2011-02-10	338435								14705117					608703					212612												
+HGNC:31097	SCA26	spinocerebellar ataxia 26	phenotype	phenotype only	Approved	19p13.3	19p13.3							2004-05-18			2014-01-30	408221								"15732118|23001565"																						
+HGNC:33445	SCA30	spinocerebellar ataxia 30	phenotype	phenotype only	Approved	4q34.3-q35.1	04q34.3-q35.1							2008-12-16			2011-02-10	100359393								18996908					613371					212618												
+HGNC:37475	SCA32	spinocerebellar ataxia 32	phenotype	phenotype only	Approved	7q32-q33	07q32-q33							2012-02-10			2012-02-10	100653368													613909					403187												
+HGNC:43726	SCA37	spinocerebellar ataxia 37	phenotype	phenotype only	Approved	1p32	01p32							2012-02-10			2013-05-24	103753527								23700170										365642												
+HGNC:2002	SCAR2	spinocerebellar ataxia, autosomal recessive 2	phenotype	phenotype only	Approved	9q34.3	09q34.3			CLA1	cerebellar ataxia 1 (autosomal recessive)			1986-01-01	2006-07-18	2006-07-18	2006-07-18									"4838888|10528257"																						
+HGNC:32976	SCAR3	spinocerebellar ataxia, autosomal recessive 3	phenotype	phenotype only	Approved	6p23-p21	06p23-p21							2006-07-18			2011-02-10	85502								11175288					271250																	
+HGNC:19065	SCAR6	spinocerebellar ataxia, autosomal recessive 6	phenotype	phenotype only	Approved	20q11-q13	20q11-q13	"CLA4|CLA3"						2008-12-08			2014-01-30	109729103								12811539																						
+HGNC:19186	SCASI	spinocerebellar ataxia with saccadic intrusions	phenotype	phenotype only	Approved	1p36	01p36	SCAR4	spinocerebellar ataxia, autosomal recessive 4	SCA24	spinocerebellar ataxia 24 (with saccadic intrusions)			2002-09-06	2002-10-14		2011-02-09	260415								"11960835|14681893"																						
+HGNC:32973	SCAX2	spinocerebellar ataxia, X-linked 2	phenotype	phenotype only	Approved	X	X							2006-07-18			2006-07-18	727714								13541590					302600																	
+HGNC:32974	SCAX3	spinocerebellar ataxia, X-linked 3	phenotype	phenotype only	Approved	X	X							2006-07-18			2006-07-18	727715								3614654					301790																	
+HGNC:32975	SCAX4	spinocerebellar ataxia, X-linked 4	phenotype	phenotype only	Approved	X	X							2006-07-18			2006-07-18	727716								3470628					301840																	
+HGNC:20806	SCKL3	Seckel syndrome 3	phenotype	phenotype only	Approved	14q23	14q23							2003-10-24			2011-02-10	386616								14571270																						
+HGNC:10649	SCZD1	schizophrenia disorder 1	phenotype	phenotype only	Approved	5q11.2-q13.3	05q11.2-q13.3							1989-04-12			1997-09-05	6377								2903449					181510																	
+HGNC:10650	SCZD2	schizophrenia disorder 2	phenotype	phenotype only	Approved	11q14-q21	11q14-q21							1989-06-02			2011-02-10	6378													603342																	
+HGNC:10651	SCZD3	schizophrenia disorder 3	phenotype	phenotype only	Approved	6pter-p22	06pter-p22							1995-10-18				6365								7647789					600511																	
+HGNC:10652	SCZD4	schizophrenia disorder 4	phenotype	phenotype only	Approved	22q11-q13	22q11-q13							1997-05-15			2011-02-10									8178837																						
+HGNC:10653	SCZD5	schizophrenia disorder 5	phenotype	phenotype only	Approved	6q13-q26	06q13-q26							1997-09-05			1997-09-05									9226366																						
+HGNC:10654	SCZD6	schizophrenia disorder 6	phenotype	phenotype only	Approved	8p21	08p21							1998-09-17			1998-11-12	8400													603013																	
+HGNC:10655	SCZD7	schizophrenia disorder 7	phenotype	phenotype only	Approved	13q32	13q32							1998-09-17			1998-09-17	8401													603176																	
+HGNC:10656	SCZD8	schizophrenia disorder 8	phenotype	phenotype only	Approved	18p	18p							1998-12-17			1998-12-17	8806								9758604					603206																	
+HGNC:17339	SCZD10	schizophrenia disorder 10 (periodic catatonia)	phenotype	phenotype only	Approved	15q15	15q15							2001-12-10			2014-01-29	63944								"11001582|22162401"					605419																	
+HGNC:10745	SEN2	senescence (cellular)-related 2	phenotype	phenotype only	Approved	1	01							1997-07-07			2003-10-13	6409								2300822																						
+HGNC:10746	SEN3	senescence (cellular)-related 3	phenotype	phenotype only	Approved	X	X							1997-07-07			2007-07-10	6410								1576706																						
+HGNC:10747	SEN6	senescence (cellular)-related 6	phenotype	phenotype only	Approved	6q26-q27	06q26-q27							1997-07-07			2014-01-29	6411								"8706800|20068294"																						
+HGNC:10748	SEN6A	senescence (cellular)-related 6A	phenotype	phenotype only	Approved	6q14-q21	06q14-q21							1997-07-07			2011-02-10	6412								8570202																						
+HGNC:10749	SEN6B	senescence (cellular)-related 6B	phenotype	phenotype only	Approved	6q21-q22	06q21-q22							1997-07-07			2011-02-10	6413								7520270																						
+HGNC:10846	SHFM2	split hand/foot malformation (ectrodactyly) type 2	phenotype	phenotype only	Approved	Xq26	Xq26	SHSF2		SHFD2				1993-12-13			2008-07-28	6463								8454282					313350																	
+HGNC:35421	SHFM5	split hand/foot malformation (ectrodactyly) type 5	phenotype	phenotype only	Approved	2q31	02q31							2008-11-27			2011-02-10	171157								11778160					606708																	
+HGNC:14535	SLEB3	systemic lupus erythematosus susceptibility 3	phenotype	phenotype only	Approved	4p16-p15.2	04p16-p15.2							2001-02-22			2006-01-24	64695								11078476					605480																	
+HGNC:17420	SLEH1	systemic lupus erythematosus with hemolytic anemia 1	phenotype	phenotype only	Approved	11q14	11q14							2002-02-13			2011-02-10	170682													607279																	
+HGNC:18542	SLEN1	systemic lupus erythematosus with nephritis 1	phenotype	phenotype only	Approved	10q22.3	10q22.3							2002-04-26			2002-12-13	192677								12215904					607965																	
+HGNC:18543	SLEN2	systemic lupus erythematosus with nephritis 2	phenotype	phenotype only	Approved	2q34-q35	02q34-q35							2002-04-26			2011-02-10	192679								12215904					607966																	
+HGNC:18544	SLEN3	systemic lupus erythematosus with nephritis 3	phenotype	phenotype only	Approved	11p15.6	11p15.6							2002-04-26			2011-02-10	282849								12215904					607967																	
+HGNC:20975	SMAN1	survival of motor and autonomic neurons 1	phenotype	phenotype only	Approved	20q13.2-q13.3	20q13.2-q13.3							2005-06-30			2008-05-14	574013								15517093																						
+HGNC:11232	SPG3B	spastic paraplegia 3B	phenotype	phenotype only	Approved	reserved	reserved							1995-03-28			2011-02-10	6682								7825576																						
+HGNC:11235	SPG5B	spastic paraplegia 5B (autosomal recessive)	phenotype	phenotype only	Approved	reserved	reserved							1993-11-24			2011-02-10	6685																														
+HGNC:13730	SPG14	spastic paraplegia 14 (autosomal recessive)	phenotype	phenotype only	Approved	3q27-q28	03q27-q28							2001-06-25			2005-10-14	57309								10877981					605229					180294												
+HGNC:14260	SPG16	spastic paraplegia 16 (complicated, X-linked recessive)	phenotype	phenotype only	Approved	Xq11.2	Xq11.2							2000-12-15			2011-02-10	57760								"10982473|10982474"					300266					180322												
+HGNC:16706	SPG19	spastic paraplegia 19 (autosomal dominant)	phenotype	phenotype only	Approved	9q33-q34	09q33-q34							2002-01-17			2011-02-10	140907								12112072					607152					180213												
+HGNC:21340	SPG23	spastic paraplegia 23 (autosomal recessive)	phenotype	phenotype only	Approved	1q24-q32	01q24-q32							2003-06-10			2011-02-10	353293								14681889										180301												
+HGNC:22993	SPG24	spastic paraplegia 24 (autosomal recessive)	phenotype	phenotype only	Approved	13q14	13q14							2003-08-13			2011-02-10	338090								12499481					607584					180270												
+HGNC:25855	SPG25	spastic paraplegia 25 (autosomal recessive, with disc herniation)	phenotype	phenotype only	Approved	6q23-q24.1	06q23-q24.1							2004-06-15			2011-02-10	387583								12070243					608220					180307												
+HGNC:26071	SPG27	spastic paraplegia 27 (autosomal recessive)	phenotype	phenotype only	Approved	10q22.1-q24.1	10q22.1-q24.1							2004-06-17			2008-07-04	414886								"15455396|16511635"					609041					180316												
+HGNC:30161	SPG29	spastic paraplegia 29 (autosomal dominant)	phenotype	phenotype only	Approved	1p31.1-p21.1	01p31.1-p21.1							2005-09-29			2008-07-04	619379								16130112					609727					180232												
+HGNC:32314	SPG32	spastic paraplegia 32 (autosomal recessive)	phenotype	phenotype only	Approved	14q12-q21	14q12-q21	SPG29						2006-07-03			2007-06-04	724107								17515546					611252					180318												
+HGNC:32944	SPG34	spastic paraplegia 34 (autosomal dominant)	phenotype	phenotype only	Approved	reserved	reserved							2006-07-04		2006-07-05	2011-02-10	724110													300750					180324												
+HGNC:33240	SPG36	spastic paraplegia 36 (autosomal dominant)	phenotype	phenotype only	Approved	12q23-q24	12q23-q24							2007-01-08			2008-05-14	791228													613096					325673												
+HGNC:33472	SPG37	spastic paraplegia 37 (autosomal dominant)	phenotype	phenotype only	Approved	8p21.2-q13.3	08p21.2-q13.3							2007-05-15			2007-10-10	100049159								17605047					611945					180240												
+HGNC:33485	SPG38	spastic paraplegia 38 (autosomal dominant, Silver syndrome)	phenotype	phenotype only	Approved	4p16-p15	04p16-p15							2007-06-07			2008-07-04	100049707								18401025					612335					180245												
+HGNC:34382	SPG41	spastic paraplegia 41 (autosomal dominant)	phenotype	phenotype only	Approved	11p14.1-p11.2	11p14.1-p11.2							2008-07-07			2011-02-10	100359402								18364116					613364					325671												
+HGNC:35431	SPG45	spastic paraplegia 45 (autosomal recessive)	phenotype	phenotype only	Approved	10q24.3-q25.1	10q24.3-q25.1							2009-01-06			2009-11-04	100322879								19415352																						
+HGNC:44625	SPG56	spastic paraplegia 56 (autosomal dominant)	phenotype	phenotype only	Approved	reserved	reserved							2012-11-21			2012-11-21	109729098																														
+HGNC:11347	ST2	suppression of tumorigenicity 2	phenotype	phenotype only	Approved	11p14.3-p12	11p14.3-p12							1988-08-31			2003-07-30	6761													185440																	
+HGNC:11348	ST3	suppression of tumorigenicity 3	phenotype	phenotype only	Approved	11q13-q23	11q13-q23							1990-02-22			2003-07-30	6762													191181																	
+HGNC:11352	ST8	suppression of tumorigenicity 8 (ovarian)	phenotype	phenotype only	Approved	6q25-q27	06q25-q27	OVCS						1997-07-11			2003-08-04	6765								1394208																						
+HGNC:11341	ST11	suppression of tumorigenicity 11 (pancreas)	phenotype	phenotype only	Approved	3p	03p	PETS1	Pancreatic endocrine tumor suppressor					1998-10-14			2011-02-10	8466								9218518					602011																	
+HGNC:11493	SYM2	symphalangism 2 (distal)	phenotype	phenotype only	Approved	reserved	reserved							1995-03-24			2011-02-24	6852								"3436086|2061594"																						
+HGNC:11567	TAPVR1	total anomalous pulmonary venous return 1	phenotype	phenotype only	Approved	4p13-q11	04p13-q11							1994-12-14			2008-07-28	6893													106700																	
+HGNC:20680	TELAB1	telangiectasia, benign 1	phenotype	phenotype only	Approved	5q14	05q14							2003-03-14			2005-03-30	338411								14627680					187260																	
+HGNC:13466	TGCT1	testicular germ cell tumor susceptibility 1	phenotype	phenotype only	Approved	Xq27	Xq27							2004-04-30			2011-02-10	50830								10655070					300228																	
+HGNC:11783	THAS	thoracoabdominal syndrome	phenotype	phenotype only	Approved	X	X							1994-12-20			2000-05-19	7055								2139758					313850																	
+HGNC:11792	THM	thymoma	phenotype	phenotype only	Approved	reserved	reserved							1995-01-27			2005-10-03	7063								"15942943|10644977"					274230																	
+HGNC:11833	TKCR	torticollis, keloids, cryptorchidism and renal dysplasia	phenotype	phenotype only	Approved	Xq28-qter	Xq28-qter			TKC				2001-06-22			2012-10-02	7085								6132873					314300																	
+HGNC:12302	TRICY1	trichilemmal cyst 1	phenotype	phenotype only	Approved	3p24.1-p22.1	03p24.1-p22.1		pilar cyst					2000-07-31			2011-02-10	94014								15637721					609649																	
+HGNC:12452	TYS	sclerotylosis	phenotype	phenotype only	Approved	4q	04q							1986-01-01			1986-01-01	7303													181600																	
+HGNC:12599	USH1E	Usher syndrome 1E (autosomal recessive, severe)	phenotype	phenotype only	Approved	21q21	21q21							1997-01-28			1997-01-28	7396								9002666					602097					139795												
+HGNC:22433	USH1H	Usher syndrome 1H (autosomal recessive)	phenotype	phenotype only	Approved	15q22-q23	15q22-q23							2008-12-08			2008-12-08	100271837								18505454					612632					316325												
+HGNC:43724	USH1K	Usher syndrome 1K (autosomal recessive)	phenotype	phenotype only	Approved	10p11.21-q21.1	10p11.21-q21.1							2012-02-07			2013-07-23	101180907								22718019					614990					322975												
+HGNC:12678	VDI	vesicular stomatitis virus defective interfering particle suppression	phenotype	phenotype only	Approved	16	16							2001-06-22			2013-04-03	7420								6275129					125260																	
+HGNC:12702	VMD1	vitelliform macular dystrophy, atypical	phenotype	phenotype only	Approved	8q24.3	08q24.3							1986-01-01			2006-10-23	7438								9246008					153840																	
+HGNC:12740	WBS2	Williams-Beuren syndrome type 2	phenotype	phenotype only	Approved	4q33-q35.1	04q33-q35.1	WS		WBS				1992-12-14			1998-08-12	7457								1583646																						
+HGNC:12794	WS2B	Waardenburg syndrome, type 2B	phenotype	phenotype only	Approved	1p21-p13.3	01p21-p13.3							1994-11-20			2008-05-14	7488								7951321					600193																	
+HGNC:12797	WT2	Wilms tumor 2	phenotype	phenotype only	Approved	11p15.5	11p15.5			"MTACR1|ADCR"				1989-05-24			2011-03-17	7491																														
+HGNC:12808	XGR	XG and CD99 regulator	phenotype	phenotype only	Approved	Xp22.32 and Yp11	Xp22.32 and Yp11			YG	expression of XG and MIC2 on erythrocytes			2001-06-22		2006-01-12	2012-10-02	7501													"314705|489500"																	
+HGNC:12813	XM	Xm(a) antigen	phenotype	phenotype only	Approved	X	X							2001-06-22			2012-10-02	7506													314900																	
+HGNC:12834	XRCC8	X-ray repair cross complementing 8	phenotype	phenotype only	Approved	reserved	reserved				X-ray repair complementing defective repair in Chinese hamster cells 8			1997-08-28		2016-06-02	2016-06-02	7521								"8879275|10887218"																						
+HGNC:12837	XS	X-linked suppressor of LU antigens	phenotype	phenotype only	Approved	Xp21.2-q21.1	Xp21.2-q21.1							2001-06-22			2012-10-02	7523													309050																	
