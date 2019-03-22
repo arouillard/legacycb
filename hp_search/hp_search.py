@@ -91,10 +91,11 @@ def update_y(Y, transform_y, y_failure_value, is_queued, is_completed, is_succes
     # impute loss value for failed jobs
     # return loss values and updated job metadata
     for i in np.logical_and(np.logical_and(np.isnan(Y), ~is_queued), ~is_completed).nonzero()[0]:
-        slurm_command = 'squeue -j {0}'.format(job_ids[i])
-        response = subprocess.run(slurm_command, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True)
-        response_stderr = response.stderr.strip().lower()
-        if 'error' in response_stderr or 'invalid job id' in response_stderr:
+#        slurm_command = 'squeue -j {0}'.format(job_ids[i])
+#        response = subprocess.run(slurm_command, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True)
+#        response_stderr = response.stderr.strip().lower()
+#        if 'error' in response_stderr or 'invalid job id' in response_stderr:
+        if count_active_jobs([job_ids[i]]) == 0:
             is_completed[i] = True
             job_run_times[i] = (time.time() - job_run_times[i])/60.0
             results_path = '{0}/output.json'.format(model_configs[i]['model_space']['save_folder'])
@@ -110,7 +111,7 @@ def update_y(Y, transform_y, y_failure_value, is_queued, is_completed, is_succes
                 else:
                     raise ValueError('results must be float, list, or dict.')
                 y_i = transform_y(objective)
-                if y_i != np.nan and y_i != np.inf and y_i != -np.inf:
+                if np.isfinite(y_i):
                     Y[i] = y_i
                     is_success[i] = True
     y_max = np.max(Y[is_success]) if is_success.any() else np.nan
@@ -495,7 +496,7 @@ def main(search_config_path, job_config_path, model_config_path, search_id='max'
         suggest_grid_point = (np.random.rand() < sc['grid_suggestion_probability']) or (sc['grid_suggestion_probability'] == 1) or sc['search_type'] == 'line' or sc['search_type'] == 'grid'
         if num_active_combinations >= sc['max_active_points']:
             print('REACHED MAX ACTIVE COMBINATIONS: {0!s}. WAITING...'.format(sc['max_active_points']), flush=True)
-            time.sleep(55)
+            time.sleep(59)
             
         elif is_queued.any() and (suggest_grid_point or elapsed_time > sc['search_time'] or num_suggestions > sc['max_suggestions']):
             combination_id = is_queued.nonzero()[0][0]
@@ -548,7 +549,7 @@ def main(search_config_path, job_config_path, model_config_path, search_id='max'
             print('saving search data...', flush=True)
             save_search_data(search_data_path, X, Y, is_queued, is_completed, is_success, search_types, combination_ids, job_ids, job_run_times, job_start_times, num_completed_combinations_at_job_start, model_config_paths, model_configs, base_model_config, hyperparameter_specs, hyperparameters, domains)
         
-        time.sleep(5)
+        time.sleep(1)
         elapsed_time = (time.time() - start_time)/3600.0
         num_iterations += 1
 
