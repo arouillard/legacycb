@@ -45,7 +45,7 @@ def main(search_config_path, job_config_path, model_config_path):
     print('launching hyperparameter search...', flush=True)
     search_command = ' '.join([sc['search_environment_path'], sc['search_script_path'], '--search_config_path', search_config_path, '--job_config_path', job_config_path, '--model_config_path', model_config_path, '--search_id', str(search_id)])
     print('search_command: {0}'.format(search_command), flush=True)
-    slurm_command = 'sbatch -n 1 -c 4 --mem={0!s}G -t {1!s} -o {2} -e {3} --wrap="{4}"'.format(sc['search_memory'], sc['search_time']*60 + 60, log_path, log_path, search_command)
+    slurm_command = 'sbatch -n 1 -c 1 --mem={0!s}G -t {1!s} -o {2} -e {3} --wrap="{4}"'.format(sc['search_memory'], sc['search_time']*60 + 60, log_path, log_path, search_command)
     print('slurm_command: {0}'.format(slurm_command), flush=True)
     response = subprocess.run(slurm_command, shell=True, stdout=subprocess.PIPE, universal_newlines=True).stdout.strip()
     if 'Submitted batch job ' in response:
