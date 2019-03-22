@@ -189,8 +189,14 @@ class AE():
             meta = meta data as pandas dataframe
             data_df = data as pandas dataframe
         '''
-        data_df = pd.read_csv(self.data_file, index_col=0)
-        meta = pd.read_csv(self.meta_file, low_memory=False, index_col=0)
+        if '.csv' in self.data_file:
+            data_df = pd.read_csv(self.data_file, index_col=0)
+        else:
+            data_df = pd.read_table(self.data_file, index_col=0)
+        if '.csv' in self.data_file:
+            meta = pd.read_csv(self.meta_file, low_memory=False, index_col=0)
+        else:
+            meta = pd.read_table(self.meta_file, low_memory=False, index_col=0)
             
         data = data_df.as_matrix()
         
