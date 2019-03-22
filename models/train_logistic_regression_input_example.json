@@ -1,0 +1,15 @@
+{
+  "datamatrix_path": "/GWD/bioinfo/projects/cb01/users/rouillard/cbml/input_data/hugolo_transposed/datamatrix.pickle",
+  "test_index": 0,
+  "response_variable_name": "responder",
+  "valid_index": 0,
+  "valid_fraction": 0.5,
+  "feature_fraction": 0.1,
+  "regularization_type": "l2",
+  "inverse_regularization_strength": 1.0,
+  "intercept_scaling": 1.0,
+  "pos_neg_weight_ratio": 10,
+  "evaluation_statistic": "f1",
+  "save_weights": true,
+  "save_folder": "train_logistic_regression_results_example"
+}
